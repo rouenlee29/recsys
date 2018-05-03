@@ -1,0 +1,967 @@
+SELFLLERY
+​
+THE SOCIAL PLATFORM FOR VISUAL
+CONTENT MONETIZATION
+
+SELFLLERY PTE LTD. ​Registration No.201629242K
+
+Version 2.9
+06.03.2018
+
+Contents
+About Us
+
+2
+
+1. SELFLLERY Mission
+
+3
+
+2. Digital Photography Market
+
+4
+
+2.1. Digital Photography Market Size Growth
+
+4
+
+2.2. The Problem of Visual Content Monetization
+
+7
+
+3. SELFLLERY Project Description
+3.1. YOU Token
+3.2. Monetization of Social Activities
+
+9
+9
+9
+
+3.3. Rating
+
+10
+
+3.4. Charity
+
+10
+
+3.5. Photoquests
+
+11
+
+3.6. Photo Contests
+
+11
+
+3.7. Marketplace for Products and Services
+
+11
+
+3.8. Stock Photo
+
+12
+
+4. SELFLLERY Business Model
+
+13
+
+4.1. AdTech and Targeted Advertising
+
+13
+
+4.2. SELFLLERY Fees
+
+13
+
+5. Token Generating Event
+
+14
+
+5.1. Token Generating Event
+
+14
+
+5.2. Token Generation and Distribution
+
+14
+
+6. SELFLLERY Token Model
+
+17
+
+6.1. YOU Token Circulation
+
+18
+
+6.2. Loyalty Multipliers
+
+19
+
+7. Roadmap
+
+20
+
+8. Core Team
+
+21
+
+9. Advisors
+
+25
+
+10. Disclaimer
+
+28
+
+No Ownership and Control Rights
+
+28
+
+Regulatory Uncertainty
+
+28
+
+YOU Token Investment Status
+
+29
+
+Risk of Insufficient Adoption
+
+29
+
+Risk of Funds Loss
+
+29
+
+Risk of Failure
+
+30
+
+Risk of Using New Technologies
+
+30
+
+No Guarantees
+
+30
+
+11. Contacts
+
+31
+
+1
+
+About Us
+SELFLLERY is a multifunctional social platform that allows you to receive rewards in
+cryptocurrency for social activities related to publication and distribution of visual
+content. The product concept and its first versions were designed in early 2016. The
+SELFLLERY reward system uses ERC20 tokens built on Ethereum blockchain technology.
+
+2
+
+1. SELFLLERY Mission
+SELFLLERY enables people to make their visual content truly rewarding.
+The purpose of SELFLLERY is to create an ecosystem that:
+1. Enables users to monetize their photos, videos and live streams in a gamified way;
+2. Supports charitable organizations and makes donations easy for users;
+3. Provides companies with easy-to-use and effective promotion tools that involve
+user photos;
+4. Expands the market of photo and video content for companies and news services,
+with a convenient search functionality;
+5. Integrates modern technologies and capabilities of blockchain into the digital
+photography market, increasing the transparency and security of its transactions.
+
+3
+
+2. Digital Photography Market
+2.1. Digital Photography Market Size Growth
+Due​​to​​the​​surging​​popularity​​of​​smartphones​​with​​built-in​​cameras,​​the​​number​​of​​
+digital photos​​is​​growing​​exponentially​​each​​year.​​More than​​1.2 ​trillion​​photos​​
+were​​taken in​​2017,​​which​​is​​600​​billion ​more​​than​​in​​2013, and 100 billion more
+than in 2016.
+Billions of people carry smartphones everywhere, record places and events around them,
+and instantly publish their pictures on the Internet. Such photos and video materials may
+possess artistic value or be in high demand by news companies, which strive to publish
+content on trending topics as quickly as possible. In addition, the quality of cameras in
+smartphones is continuously improving, allowing for the creation of content of ever higher
+quality.
+
+4
+
+Source: ​
+mylio.com
+
+5
+
+Social media platforms are the primary channels for publishing and promoting digital
+photos, while at the same time, they are one of the main sources of Internet traffic for
+advertisers. Therefore, social media marketing expenses amount to a significant portion of
+overall marketing spending in the company. The share of social media spending in
+marketing budget is expected to increase from 9.8% to 18.5% over the next five years1:
+
+Source: ​
+cmosurvey.org
+
+It is worth noting that the popular photo sharing service Instagram is among the top 20
+most visited Internet resources in the world2 and it has about 800 million users. As of
+August of 2017, the number of daily users of the service is 375 million, which is 125 million
+more as compared to the previous year’s numbers. The graph below shows the monthly
+increase in the number of Instagram users (in millions).
+
+1
+2
+
+​mosurvey.org
+c
+https://www.alexa.com/topsites
+​
+
+6
+
+Source: ​
+statista.com
+
+2.2. The Problem of Visual Content Monetization
+Traditional ways to monetize visual content
+Throughout history, people have created a huge amount of graphic content including rock
+art, murals, engravings, paintings, photographs, etc. This content may possess different
+sorts of artistic, historical and aesthetic value, but to date, only a miniscule fraction of
+this value has been monetized in any way.
+Traditional opportunities for photo content monetization are present only in two forms:
+either by placing advertisements on web pages with photos or via direct sale of the
+photographs. Both scenarios assume the commercial use of the photograph. Therefore, the
+requirements for such content are high, which creates barriers for the authors. For
+example, most photo stocks require that uploaded photos meet certain quality standards
+(in exposure, lighting, focusing, framing, etc.). When talking about the use of photography
+for advertising purposes, this requires a mandatory model release and often demands
+professional equipment and the involvement of a team of specialists.
+
+7
+
+Today Instagram, Facebook, Snapchat and Twitter social networks allow users to post a
+huge amount of visual content. However, despite the fact that all this content belongs to
+users, the multi-billion profits generated by this content are collected by shareholders of
+the companies that own these networks.
+Here the opportunities for visual content monetization are not provided to the user by
+default, but require complex setups where profits are delayed in time.
+Using blockchain technology to monetize visual content
+There are several services on the market that credit cryptocurrency tokens to their users
+for social activity. It works like this: when users receive a Like on their photo or post, they
+get a certain number of tokens.
+For example, users of Steemit, a decentralized social network, receive rewards in Steem
+tokens. Steepshot, and the PhotoSteem applications developed on this social platform,
+give users rewards in Steem tokens for the likes they receive on posted photos. Here the
+monetization of photo content is limited as the only way to receive tokens is to get likes.
+SELFLLERY provides an extensive toolset for user content monetization including:
+1. automated rewards in YOU (SELFLLERY money) tokens for Likes received
+2. an opportunity to sell photos in stock photo
+3. rewards for participating in advertising campaigns
+4. prizes for photo-quests
+5. rewards for participating in photo contests
+6. boosted multipliers for getting into the top-ratings and for frequent social
+activities.
+
+8
+
+3. SELFLLERY Project Description
+3.1. YOU Token
+The SELFLLERY economic model is based on an internal asset, the SELFLLERY money utility
+token (YOU token). The YOU token entitles its holders access to paid services on the
+SELFLLERY platform, to make purchases in the SELFLLERY marketplace and stock gallery,
+donate to charities, and make internal transfers and withdraw tokens to Ethereum wallets.
+YOU token transfer happens when users receive Likes (‘Proof-of-Like’). The platform
+incorporates a deflationary mechanism, according to which the number of Likes required
+to obtain one YOU token is increased every year relative to volume of users. Also, YOU
+token generation at TGE will be limited (See ‘Token Generating Event’).
+
+3.2. Monetization of Social Activities
+Every user who conducts a lot of activities in SELFLLERY brings value to the platform.
+Therefore, SELFLLERY rewards such users with YOU tokens.
+Likes
+The Like is one of the key metrics in SELFLLERY operations. Likes serve as accounting
+records and encourage users to be more active. As users get Likes, they get YOU tokens
+credited to their accounts.
+Token Multiplier
+YOU token amount to credit is calculated automatically based on individual token
+multiplier of each user. The multiplier value depends on several indicators including the
+
+9
+
+number of received Likes, the number of comments the user posted, participation in photo
+contests, positions in top ratings, etc.
+
+3.3. Rating
+Every user is included in the rating system. The Rating is an indicator of popularity, which
+is displayed on the user profile and affects the YOU token multiplier. The rating is
+influenced by the following factors: the total number of received likes, the number of
+comments and views of the user photos.
+Also, SELFLLERY automatically lists the top-rated photos in different categories. Moreover,
+every day the editorial team selects the best photos to include in the “Editor's Choice”
+section. Every time the user photo is included in “Editor's Choice”, or top-ratings, it raises
+the author's rating.
+
+3.4. Charity
+Every month SELFLLERY donates 10% of its profits to various charities. In addition,
+SELFLLERY incorporates a charity program, where any SELFLLERY user can determine the
+percentage of donations from their income to a charity of choice.
+Participating in various social projects, users receive special badges. Thus, most socially
+active users stand out from the user list. Also, users can choose the charity type (for
+example, help children or help those affected by natural disasters, donate to educational
+programs, medical research, or animal shelters). All charities receive donations in YOU
+tokens, which they can withdraw into the currency of their choice. Blockchain technology
+used in YOU token ensures transparency and security of such transactions.
+To support this social initiative, SELFLLERY will partner with international charity
+organizations.
+
+10
+
+3.5. Photoquests
+SELFLLERY regularly creates photo quests - single- and multiplayer games for
+photographers. In a photoquest, users are tasked with making photos of certain objects,
+animals or scenes within a limited period of time. Photoquest may include several tasks
+with different levels of complexity. After completing all the tasks, the player can receive
+a prize in YOU tokens. In a multiplayer photoquest, several players can participate
+simultaneously.
+
+3.6. Photo Contests
+SELFLLERY provides advertisers with a marketing tool set that includes games and
+contests. The brand or company owner can launch a photo contest between users and
+specify custom conditions that would attract attention to the brand. Blockchain provides
+transparency of the contest as advertisers will use smart contract to specify the contest
+terms and rewards distribution.
+Participating in games and contests, users can get additional Likes, increase their photo
+ratings and receive rewards in YOU tokens. The reward amount is calculated in the
+following way: the more participants enter the contest, the larger the prize pool.
+
+3.7. Marketplace for Products and Services
+SELFLLERY users get access to the SELFLLERY marketplace where they can purchase
+related products (cosmetics, selfie sticks, smartphones, etc.) and services (cosmetic
+procedures, plastic surgery, photo prints etc.) with YOU tokens or other cryptocurrency.
+Suppliers are required to complete authorization process. Supplier catalog will show their
+ratings, escrow and reviews.
+
+11
+
+3.8. Stock Photo
+SELFLLERY provides a multipurpose stock photo to upload and sell digital photos. Payments
+in the stock gallery are made with YOU tokens. All stock gallery users are required to
+complete verification.
+
+12
+
+4. SELFLLERY Business Model
+4.1. AdTech and Targeted Advertising
+SELFLLERY serves as an AdTech platform for companies and individuals who want an
+effective way to promote their products and services to platform users, or buy photos for
+use in advertising campaigns.
+SELFLLERY offers the following advertising models:
+●
+
+CPA - cost per action (pay per user activity)
+
+●
+
+CPC - cost per click (pay per click)
+
+●
+
+CPV - cost per view (pay per view)
+
+Advertisers and brands are also provided with the functionality to run promotional
+campaigns with users. Using this tool, advertiser can specify custom campaign conditions:
+the number of participants, the reward fund amount, the minimum number of views and
+Likes of the user's page, the requirements for a photograph, etc. If a user’s page meets all
+the requirements, the user automatically receives a reward in YOU tokens. Also,
+advertisers can launch photo contests with several winners and specify prizes not only in
+YOU tokens, but also an advertiser's merchandise from the SELFLLERY marketplace.
+
+4.2. SELFLLERY Fees
+SELFLLERY charges a fee for the following services:
+1. Sale of products and services in the marketplace
+2. Sale of photos in stock gallery
+3. Advertising campaigns, photo contests, photo quests
+4. Promotional smart contracts
+13
+
+5.
+​
+
+Token Generating Event
+
+5.1. Token Generating Event
+Token Generating Event (TGE) is an event when anyone can become the owner of YOU
+tokens. A token is a code element, which is used in the SELFLLERY platform operations to
+enable internal payments between its users.
+
+5.2. Token Generation and Distribution
+Initially, YOU tokens are generated during the TGE based on the Ethereum platform.
+Buyers receive YOU in exchange for Ethereum (ETH) tokens by sending a payment to a
+smart contract that generates YOU tokens. The smart contract address will be published
+on official SELFLLERY website one day before the TGE start.
+
+YOU token price: 1 YOU = 0.001 ETH
+The minimum goal (soft cap): 10 000 ETH
+The maximum goal (hard cap): 55 000 ETH
+Minimum purchase amount: 0.1 ETH
+
+TGE will have two stages: pre-sale and main sale. At the pre-sale stage, YOU tokens are
+offered only to whitelisted buyers, whereas during the main sale tokens can be purchased
+by anyone. During pre-sale, early buyers can buy YOU tokens at a discount. For discounted
+YOU tokens, the minimum purchase amount is set at 10 ETH and tokens are locked up for
+at least one month after the main sale ends.
+
+14
+
+Pre-sale discounts and vesting schedule
+Pre-sale
+
+Discount
+
+Vesting Schedule (starting
+from the main sale end
+date)
+
+Phase 1: $200,000
+
+25%
+
+50 days
+
+Phase 2: $300,000
+
+20%
+
+40 days
+
+Phase 3: $500,000
+
+15%
+
+30 days
+
+YOU Token buyers receive their tokens immediately when a ETH smart contract
+transaction in processed. Token rewards for bounty program members, advisors, project
+teams, as well as tokens for the reserve and reward funds are distributed only when the
+TGE is completed.
+
+The bounty program tokens are distributed to the program members on the TGE end date.
+Advisor tokens are locked in for one month from the TGE end date, while the project team
+tokens are locked in for six months. Tokens for the Reserve and Reward Funds will be sent
+to specified addresses on TGE end date. Addresses will be published on the SELFLLERY
+website one day before the TGE end date. These funds, together with YOU tokens
+collected during TGE, will be available for use by the SELFLLERY project team from the
+moment these Funds are set up, and the team will report on spending on their blog.
+
+15
+
+The Reward Fund has been established to support early users during the first year of the
+SELFLLERY platform operation. Until SELFLLERY gains enough advertising funds, the
+Reward Fund tokens will be used to reward users for Likes, to recognize most active users,
+to congratulate winners in photo contests, to attract popular bloggers, etc.
+
+Users who register and actively use SELFLLERY during the TGE main sale will receive an
+additional multiplier for the monetization of their visual content. With this additional
+multiplier, once the platform launches the reward payments, users will start receiving
+more YOU tokens for the Likes they get.
+
+As SELFLLERY is a social platform, most of the collected funds will be spent towards
+attracting new users and developing product features.
+
+Spending ETH tokens collected during TGE (except for Reserve Fund) will be controlled by
+a smart contract that will release and transfer funds to the project team according to the
+completed roadmap milestones. In light of recent industry news3, which shows a human
+factor hindering the successful implementation of the project, escrow will not be
+involved.
+
+3
+
+https://www.coindesk.com/tezos-founders-ico-controversy-will-blow/
+
+16
+
+6. SELFLLERY Token Model
+
+17
+
+6.1. YOU Token Circulation
+The YOU token circulation scheme depends on the type of ownership.
+When YOU tokens are owned by SELFLLERY end users:
+1. YOU tokens are generated during TGE
+2. Users buy YOU tokens on TGE or on the open market (after TGE ends).
+3. Users utilize YOU tokens to pay for additional SELFLLERY features, to buy
+specialized products in SELFLLERY marketplace and other users’ photos in
+stock gallery, and also on charity.
+4. When users pay for additional SELFLLERY features, YOU tokens are
+transferred to SELFLLERY and then distributed according to the current plan
+for SELFLLERY platform development. When users buy other users’ photos in
+stock gallery or specialized products in the marketplace, YOU tokens are
+transferred from buyers to sellers, excluding the SELFLLERY fee.
+When YOU token is owned by SELFLLERY advertisers:
+1. YOU tokens are generated during TGE;
+2. Advertisers buy YOU tokens on TGE or on the open market (after TGE ends);
+3. Advertisers utilize YOU tokens to pay for targeted advertising on SELFLLERY;
+4. YOU tokens (excluding the SELFLLERY fee) received from advertisers are
+distributed among all SELFLLERY users according to their Likes volume and current
+user rating; Besides paying YOU tokens for targeted ads, advertisers can award YOU
+token prizes to users who win photo contests or complete promotional photoquests.
+The YOU​​token​​supply​​is​​limited.​​Every
+
+day,​​at​​a​​certain​​time,​​SELFLLERY​​
+
+distributes​​the​​daily​​reward​​fund​​among​​all​​users​​who have received​​Likes​​in​​the​​
+last​​day.​​YOU ​tokens​​are​​distributed​​among​​all​​active​​SELFLLERY​​users, since​​all​​
+of​​them​​are​​SELFLLERY​​contributors,​​and​​not​​only​​those​​whose​​pages​​host​​ads.​​
+The
+
+more​​people​​use​​SELFLLERY,​​the​​more​​value​​it​​brings​​to​​the​​platform.​​
+
+Therefore,​​every​​user who​​receives​​a​​Like,​​deserves​​a​​reward.
+
+18
+
+To avoid cheating, for unverified users the total number of likes per day that he or she can
+give is limited. After verification number of likes per day that user can give is unlimited.
+SELFLLERY provides users with YOU token accounts, where they can make instant internal
+transfers (offchain transactions) in YOU tokens without any fee. Also, users can withdraw
+their YOU tokens from their SELFLLERY token account to their Ethereum wallets with a
+miner fee.
+The development strategy of SELFLLERY user reward model includes implementation of
+smart contracts that allows advertisers to use not only YOU tokens, but also ETH and other
+ERC20 tokens to reward users. Once these smart contracts are introduced, advertisers who
+pay with YOU tokens will receive a discount.
+
+6.2. Loyalty Multipliers
+SELFLLERY has a loyalty program to reward their most popular users. When they are
+rewarded for Likes with tokens, their YOU token amount is calculated with a progressive
+loyalty multiplier, which increases the total number of tokens received.
+
+19
+
+7. Roadmap
+Q1 2016
+
+Idea
+Product Concept Definition
+
+Q2 2016
+
+Alpha Version of WEB App
+Alpha Version of Android App
+
+Q3 2016
+
+Closed Testing of the WEB App
+Closed Testing of the Android App
+
+Q4 2016
+
+Beta Version of Android Application
+User Testing of the Service
+
+Q1 2017
+
+Market Research and Analysis
+WHITEPAPER Preparation
+
+Q2 2017
+
+Economic Model Validation
+Advisor Consulting
+
+Q3 2017
+
+Preparing for Pre-sale Launch
+
+Q4 2017
+
+Pre-sale Round A
+Pre-sale Round B
+
+Q1 2018
+
+Pre-sale Round C - Already Raised $1,014,728
+Staff increase
+iOS application release
+YOU Token Generation Event
+
+Q2 2018
+
+Launching a large-scale marketing campaign
+Growing user base
+Photo contest module release
+Charity donations module release
+
+Q3 2018
+
+First 500,000 users
+Development of tools for advertisers
+Photo Stock module development
+Advertising platform launch
+
+Q4 2018
+>FUTURE
+
+Marketplace module development
+AdTech technology development
+Copyright verification module development on Blockchain
+Photo authenticity approval module on Blockchain
+
+IN 3 YEARS
+
+1 billion SELFLLERY users
+
+20
+
+8. Core Team
+Vadim Onishchenko - CEO
+https://www.linkedin.com/in/vadimonishchenko/
+https://www.facebook.com/Onishchenko.Vadim
+Vadim is the founder of the SELFLLERY platform. He is a professional
+photographer with ten years of experience in the IT field. SELFLLERY is a
+synthesis of his improved skills. Its meaning is globally changing the
+attitude towards visual content.
+Victor Laushtan - CBDO
+https://www.linkedin.com/in/victorlaushtan/
+https://www.facebook.com/VictorLaushtan
+Victor is a Business Development Officer, with experience in market and
+product research and competitive analysis. He also has in-depth
+knowledge of sales and marketing content development. In addition, he
+holds experience in communications with industry analysts and knowledge
+of company and product presentations at industry events.
+Rami Khodorovsky - Project Manager
+https://www.linkedin.com/in/ramikhodorovsky/
+https://www.facebook.com/RamiKhodorovsky
+Rami is a specialist in information technology and search marketing. Has
+more than 12 years of practical experience in marketing and development
+of IT-technologies, mainly in the promotion of large WEB-projects and
+search engine optimization. Rami has solid knowledge in creating and
+maintaining groups in social media.
+
+Evgenyj Zarechnyj - CTO
+https://www.linkedin.com/in/evgenyj-zarechnyj/
+https://www.facebook.com/evgenyj.zarechnyj
+Evgenyj is the backend and web developer with more than 15 years of
+experience in software development. He developed his own MVC
+framework in PHP, and wrote anti-keylogger in C++. He has solid
+knowledge in project architecture, as well as programming skills in
+JavaScript, C++, PHP and node.js
+
+21
+
+Sergey Kuznetsov - Senior WEB Developer
+https://linkedin.com/in/sergeykuznetsov4
+https://www.facebook.com/sergey.kuznetsov.99
+Sergey is qualified PHP developer with strong knowledge of Javascript and
+AngularJS, and in integrations with various APIs. Developed a system for
+generating PDF reports for the evaluation system, the results of the
+project were used by such services as: Alfa Bank, Beeline, Yota.
+Participated in the development of an electronic trading platform.
+
+Anastasiya Shteppa - Senior Product Designer
+https://linkedin.com/in/shtpp
+https://www.facebook.com/anastasiya.shteppa
+Anastasiya is a professional graphic designer with more than 7 years
+experience in UX \/ UI design and branding. In SELFLLERY team she`s
+responsible for the upcoming redesign of the main site, landing pages, and
+all marketing materials. Also she has skills in A\/B testing, ATL and BTL
+marketing and wide experience in all cycles of launching new products to
+the market.
+
+Yana Mizernyuk - Head of Marketing
+http://linkedin.com/in/yana-mizernyuk/
+https://www.facebook.com/yanina.mizernyuk
+Yana is a qualified marketing with more than 4 years in Marketing,
+Business Development, Event and Partnership Management. She has taken
+part in launching IT projects and startups, attended many conferences,
+and opened new coworking spaces. Her skills are centered in areas of
+digital activity, marketing, partnership communication, startup launching
+and personnel management.
+
+Vladislav Nikitenkov - Chief Marketing Officer
+https://www.linkedin.com/in/vlad-nikitenkov/
+https://www.facebook.com/vlad.nikitenkov
+Vladislav has more than 5-year experience in promoting brands, launching
+marketing companies. He has been doing marketing in the promotion of
+ICO, TGE and ITO projects for over a year. Vladislav is the СEO of the
+leading marketing agency ADDIVINE, with more than 20 employees. He is
+also the founder of the media about the crypto currency The Coin Shark.
+
+22
+
+Tatiana Skydan - Editor-in-Chief
+https://www.linkedin.com/in/tatiana-morozova-skydan/
+https://www.facebook.com/prostoramma
+Tatiana is a media-expert with more than 15-years experience in radio
+and publishing, PR, communications and creativity. In SELFLLERY team she
+acts as editor-in-chief who is responsible for every word spoken on behalf
+of company.
+Ira Yetskalo - Business Development Officer
+https://linkedin.com/in/yetskalo
+https://www.facebook.com/Yetskalo
+Ira is professional Business Development Officer. She has more than 3
+years experience in business communication, strategiс partnership
+communication and team-leading. Her knowledge and skills makes her
+good expert in communicating new product developments to prospective
+clients and following up new business opportunities.
+
+Kate Dubov - Communication Manager
+https://www.linkedin.com/in/kate-dubov/
+https://www.facebook.com/katie.dubov.1
+Kate is a skilled Communications Manager with experience in business
+communication,
+
+lead
+
+research,
+
+partnership
+
+strategy,
+
+media
+
+and
+
+advertising resources communication. She is involved in preparing
+Kickstarter campaigns, including making all PR-tasks, data collection, SMM
+- content, financial calculations, negotiating with company partners, and
+document translation.
+
+Hasan Nafi Akalın - Media Explorer
+https://www.linkedin.com/in/hasan-nafi-akalın/
+https://www.facebook.com/multia17
+Hasan Nafi was born in Turkey and studying in Ukraine, with 5 years
+learned market research media strategy and completed the construction
+of today. Hasan is a Media explorer, interestingly he catch them and
+benefit, he gives a different angle to the Team. Succesful in two-way
+communication, document translation and digital activities.
+
+23
+
+Vladi Krakovetskyi - Board Advisor
+https://www.linkedin.com/in/krakovetskyi/
+https://www.facebook.com/offic
+Vladi is a motivational speaker, entrepreneur and world traveler. He has a
+higher technical and economic education, obtained in VNTU (Vinnica
+National University Of Technologies). Vladi’s professional experience:
+Organizer of Smart Techno™, CEO&Co-founder of ABCname™ and
+Lemniscate.Capital Foundation, Managing Partner and Co-Founder of
+Worlax Graphics LTD, Technical Director at MIG Robotics, Co-founder of
+ChatBot Community Ukraine, COO of Startup Association Ukraine-Israel,
+Managing Partner at Robo House.
+
+Sandra Mikheeva - Account Manager
+https://www.linkedin.com/in/Sandra-Mikheeva/
+https://www.facebook.com/alexsandra.mikheeva
+Sandra is a Account Manager with a big experience in analysis trends on
+markets to generate and select relevant content. She’s professional in
+ideas hunting — monitoring relevant sources, competitors, substitutions to
+select the best ideas to implement.
+
+24
+
+9. Advisors
+Motti Peer
+https://www.blonde20.com/team/motti-peer/
+https://www.linkedin.com/in/mottipeer
+Motti holds an MBA in Finance and Marketing from Manchester University. As
+Co-CEO of Blonde 2.0, he is responsible for handling the Public Relations
+aspects, strategy and crisis management. He served as Chief Instructor in
+LOTAR the IDF's School for Anti Terrorism. He’s also a mentor and a lecturer at
+the Executive MBA program of Tel Aviv University, Michlelet Afeka, and IDC's
+entrepreneurial program. Motti is a member of the board of directors at the
+Taub Center. Forbes named Motti one of the Startup Nation's "Movers and
+Shakers".
+
+Jason Hung
+https://www.linkedin.com/in/jasonhung-earth/
+Jason is a serial entrepreneur and inventor in mobile business, blockchain
+ecosystem, digital marketing, AI and ERP related business. He is the co-founder
+of Treascovery, Chidopi and TimeBox, and the advisory board of BitRewards,
+BlockLancer, ICONIC, AIDA, EZPOS and Suchapp. He has more than 20 years
+proven track record on managing RD, IT, sales, consulting service with 9
+technology related patents which using at more than 2000 Apps. He was also
+formal PeopleSoft and JDE solution head in Greater China. He is also a
+blockchain expert of ICOBench and International Blockchain Consulting
+Announcement Group.
+
+25
+
+Amarpreet Singh
+https://www.linkedin.com/in/amarpreetsingh2/
+Amarpreet is a professional with 10 years of experience in Tech\/Digital
+industry. His specialties are: Technology Consulting, Operations, Cloud
+Computing, Fintech, Innovation, ERP, Machine Learning, Account Management,
+Partner Development, Business Development and Strategy. He holds three
+Masters degrees from top business schools in Asia, has lived\/worked\/studied
+in India, Singapore, France, China, South Africa, Korea, Canada etc. He has
+worked with Microsoft, The World Bank, Airbus etc.
+
+Nathan Christian
+https://www.linkedin.com/in/nathan-christian-90365414a/
+Nathan is a technical expert in Blockchain-based accounting and financial
+applications. He is a Serial entrepreneur with over 35 start-ups in his portfolio.
+He is deeply entrenched in the blockchain space and has made it both his
+career and life passion. He is an accomplished blockchain and Fintech
+international speaker and is a top 10 ranked member of the ‘People of
+Blockchain’. He is also diversely skilled in ICO strategy, development, venture
+capital investment, consulting and advising. He has his MBA from the Ohio State
+University and is always seeking to help mentor those in blockchain industry. A
+few of his current top ICO advisory projects include; TraDove, Friendz,
+Omnitude, Moonlite, VeriMe, BitRewards, and LedgerScore.
+
+Reuben Godfrey
+https://www.linkedin.com/in/reuben-godfrey-1a18055/
+Reuben has worked in sales, business development, finance and operations
+roles for major multinationals and start-ups in the tech, telecoms and
+pharmaceutical industries globally. He has worked as a journalist and is
+frequently interviewed and asked for comment by tech and mainstream media
+as well as speaking at and hosting seminars and conferences. He is co-founder
+the Blockchain Association of Ireland and the Irish Chamber of Commerce in
+Slovakia with an ambassador role on the GDPR Awareness Coalition and on the
+NSAI National Mirror Committee to ISO TC 307.
+
+26
+
+Boris Otonicar
+https://www.linkedin.com/in/boris-o-46842231/
+Boris Otonicar has a Masters degree in Economics & Psychology from University
+of Zurich. Currently he is doing a certificate as a Blockchain Specialist BVS. He
+advised different ICOs like Coinlancer, Districts and Coinloan. He is very
+interested in Blockchain and develops his own Blockchain models and Smart
+Contracts.
+
+Roman Kravchenko
+https://www.linkedin.com/in/romankrav4/
+Roman Kravchenko is a blockchain expert who positions himself as a
+CryptoDiaspora evangelist. He is fond of traveling and sharing his experience as
+a speaker at thematic conferences around the world. His alma mater is the
+Donetsk National University, where he obtained Master’s degree in Economic
+Cybernetics. Professional experience: Assistant of the Department “Applied
+Mathematics and Informatics”, Chief Technology Officer in Agri Eye, Project
+Manager in ITC R&D, Chief Technology Officer in Remme and 482.solutions
+
+Nazar Polyvka
+http://axon.partners/team/nazar-polyvka-co-founder/
+https://www.linkedin.com/in/nazar-polyvka-6133037/
+Nazar Polyvka is an expert in legal advice. He is a co-founder of Axon.Partners,
+a law firm that serves technocratic business. He specializes in high-tech,
+intellectual property, venture investment, electronic and crypto currencies,
+e-commerce and media. Nazar holds a Master’s Degree in Law Science from
+NaUKMA (National University of Kyiv-Mohyla Academy). His professional
+experience was formed while working with companies such as Foyil, Arzinger,
+KM Partners and Juscutum. Nazar and his team at Axon.Partners provided legal
+advice to such ICO projects as: TAAS Fund, DMarket, DreamTeam, DAO.Casino,
+Oracles Network, Hacken and others.
+
+27
+
+10. Disclaimer
+This​​document​​is​​intended​solely​for​​informational​​purposes​​​and​​isn't meant to
+be a solicitation or an offer to invest in our​​platform.
+
+No Ownership and Control Rights
+
+Ownership​​of​​YOU​​tokens​​does​​not​​grant​​its​​holders​​the​​right​​of​​ownership​​or​​
+the right​​to​​share​​in​​SELFLLERY.​​YOU ​tokens​​do​​not​​give​​the​​right​​to​​
+participate​​in decision​​making​​about direction and development of SELFLLERY​​
+business. However,​​the​​opinions​​of​​token​​holders​​and​​platform​​users are very
+important and​​can​​be taken​​into​​account​​when​​such​​decisions​​are​​being​​
+made.​​YOU ​tokens​​can​​be​​used​​as an​​internal​​currency​​within​​the​​project​​to​​
+purchase​ ​ products​ ​ and​ ​ services​ ​ from
+
+companies​ ​ represented​ ​ in​ ​ the​​
+
+marketplace,​​and​​to​​pay​​for​​contextual​​advertising​​or premium​​accounts​​in​​
+SELFLLERY.
+
+No Income or Profit Guarantees
+All examples of income and profit calculation in this document are presented only to
+demonstrate the average, empirical indicators of the industry. They do not
+guarantee that these results will be achieved according to the marketing plan.
+
+Regulatory Uncertainty
+
+​Blockchain​​technologies​​are​​subject​​to​​supervision​​and​​control​​by​​various​​
+regulatory bodies​​around​​the​​world.​​There`s a risk that all digital tokens, as an
+asset, may fall under heavy regulation and restrictions, that may limit the
+functionality of YOU token or even make it impossible to use. We see it as a highly
+28
+
+improbable course of action, but if it happens, we aren't responsible for its
+consequences.
+
+YOU Token Investment Status
+
+​
+The​​YOU ​token​​is​​not​​a​​certified​​or​​legally​​binding​​investment.​​Due​​to​​
+unforeseen circumstances,​​the​​objectives​​set​​forth​​in​​this​​document​​may​​be​​
+amended.​​Although we​​intend​​to​​accomplish​​all​​the​​objectives​​described​​in​​
+this​​document,​​all​​persons and​​parties​​involved​​in​​the​​purchase​​of​​YOU ​​
+tokens​​do​​so​​at​​their​​own​​risk.
+
+Risk of Insufficient Adoption
+
+Although​​YOU​​tokens​​should​​not​​be​​seen​​as​​an​​investment,​​they will have
+some value​ ​on the cryptocurrencies market. SELFLLERY team can't and won't
+influence the tokens` market price, which depends solely on the proportion of supply
+and demand, and also on the use frequency. Their​​value​​may ​increase due to high
+frequency of use and high demand, and​decrease​​when used not often.
+
+Risk of Funds Loss
+​
+Funds​​collected​​in​​the​​TGE​​process​​are​​not​​insured.​​In the case​​of​​token loss​​
+or​​decrease​​of​​the token​​value,​​token​​holders​​are​​not​​provided​​with​​a​​
+private​​or​​public​​insurance representative.​
+
+29
+
+Risk of Failure
+
+Even though the SELFLLERY team is highly confident that the project will be
+successful, working additional shifts and spending countless hours and resources to
+achieve all goals, these goals may be not achieved due to some reasons beyond the
+control of the team.
+
+Risk of Using New Technologies
+
+Crypto-tokens, such as YOU tokens, are a new and unverified technology. In addition
+to the risks mentioned in this document, there are additional risks which the
+SELFLLERY team cannot foresee. These risks could materialize in other forms not
+specified in this document.
+
+No Guarantees
+
+​Registration on SELFLLERY platform or YOU token purchase is a voluntary action and
+the project team doesn’t take any responsibility for this action or its consequences.
+After​​emission,​​YOU​​tokens​​are sent to​​users​​without ​any​guarantees, including
+guarantees of increase in value. Some jurisdictions do​​not​​allow​​the​​exclusion​​of​​
+implied​​guarantees,​​and​​the​​above exceptions​​to​​implied​​guarantees​​may​​not​​
+apply​​to​​you, but we still put it here in order to avoid any monetary claims from
+investors and users.
+
+30
+
+11. Contacts
+Token Generation Event: ​https://tge.selfllery.com
+MVP:​​https://selfllery.com
+Smart Contract:​​https://github.com/SELFLLERY/selfllery-tge
+
+Contact US:​​https://selfllery.com/support
+Youtube Channel:​​https://www.youtube.com/SELFLLERY
+Presentation Video:​​https://youtu.be/sJDuHji2N50
+SELFLLERY - TOKEN SALE on Telegram ENG:​​https://t.me/SELFLLERY_EN
+SELFLLERY Official Channel on Telegram:​​https://t.me/SELFLLERY
+Facebook:​​https://www.facebook.com/SELFLLERY/
+Linkedin:​​https://www.linkedin.com/company/SELFLLERY/
+Bitcointalk:​​https://bitcointalk.org/index.php?topic=2759497
+Medium:​​https://medium.com/@SELFLLERY
+Reddit:​​https://www.reddit.com/user/SELFLLERY/
+Twitter:​​https://twitter.com/SELFLLERY
+Instagram:​​
+https://www.instagram.com/SELFLLERY/
+SELFLLERY PTE LTD​. ​Registration No.201629242K
+
+31
+
+

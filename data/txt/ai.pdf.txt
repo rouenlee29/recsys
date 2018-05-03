@@ -1,0 +1,2917 @@
+Verv VLUX
+Whitepaper
+
+–
+
+The Evolution
+of Energy
+
+The Evolution of Energy
+
+1
+
+Table of Contents
+
+–
+
+1.0 - The Evolution of Energy & Verv
+1.1 Background
+1.2 Introducing Verv
+
+6
+6
+7
+
+2.0 - Industry Overview & Market Trends
+2.1 Generation
+2.2 Transmission
+2.3 Energy Consumption
+2.4 Challenges and opportunities for tomorrow
+
+9
+10
+10
+11
+12
+
+3.0 A Peer-to-Peer Energy Trading Solution
+3.1 Why now and why Verv?
+3.2 Digitalisation of Energy and IoT
+3.3 The Blockchain Future
+3.4 Artificial Intelligence (AI) / Machine Learning
+
+14
+14
+16
+17
+17
+
+4.0 Introducing the Verv VLUX Blockchain Framework
+4.1 Getting set-up on the VTP Network: a household’s point of view
+4.2 Peer-to-Peer trading on the VTP Network
+4.3 A system perspective: the VTP and token ecosystem
+4.4 The development of the VTP platform
+4.5 VTP Platform Technical Details
+4.6 Additional VTP applications
+
+19
+19
+20
+21
+26
+28
+29
+
+5. VTP Business Model
+5.1 Value Propositions
+5.2 Customer Segments and Distribution Channels
+5.3 Competition
+5.4 VTP Technical Development Roadmap and Commercial Plans
+5.5 Simulated Energy Trading Across 60 Homes
+5.6 Verv’s Hackney Project – the UK’s first peer-to-peer energy blockchain trading platform
+
+32
+32
+33
+35
+36
+37
+38
+
+6.0 Milestones, Awards, & Achievements
+
+39
+
+7.0 - Team, Advisors and Project Partners
+7.1. Team
+7.2 Advisors
+7.3 Project Partners
+
+41
+41
+42
+43
+
+8.0 - VLUX Token Launch
+8.1 The Token
+8.2 Token Allocation
+8.3 Funds Allocation
+8.4 Our Token Sale Approach
+8.5 The Pre-sale
+8.6 The Public Whitelist
+8.7 The Future Economy
+
+44
+44
+44
+44
+45
+45
+45
+45
+
+Conclusion
+
+46
+
+The Evolution of Energy
+
+2
+
+Important Notice
+The contents of this document are for informational purposes only. It is not intended as an offer or solicitation for any
+financial instrument or financial services in any jurisdiction. The issue of this document shall not be taken as any form of
+commitment on the part of Vlux Limited (the “Company”), its directors or its shareholders to proceed with the Token Sale,
+any negotiations in relation thereto or any other transaction.
+Any decision to participate in the Token Sale should only be made after reading the whitepaper relating to the Token Sale.
+Additionally, the information transmitted is intended only for the person or entity to which it is addressed and may contain
+confidential and/or privileged material.
+Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon this information by
+persons or entities other than the intended recipient is prohibited.
+The token sale is not directed at or intended to be accessible to or participated in by persons resident in any jurisdiction
+where to do so would constitute a violation of the relevant laws or regulations of that jurisdiction or would result in a
+requirement on the Company to obtain any consent or comply with any formality which the company regards as unduly
+onerous, including India and The People’s Republic of China.
+No regulatory authority has examined or approved of any of the information in this document. No such action has been or will
+be taken under the laws, regulatory requirements or rules of any jurisdiction. The publication, distribution or dissemination
+of this document does not imply that the applicable laws, regulatory requirements or rules have been complied with.
+To the maximum extent permitted by the applicable laws, regulations and rules, the Company, its shareholders, directors
+and advisers and any third party involved in the Token Sale shall not be liable for any losses of any kind, direct or indirect,
+in tort, contract or otherwise (including but not limited to loss of revenue, income or profits, and loss of use or data), arising
+out of or in connection with any reliance on this document or information contained within it.
+All statements contained in this document, statements made in press releases or in any place accessible by the public and
+oral statements that may be made by the Company, its shareholders, directors or advisers or any third party involved in the
+Token Sale, that are not statements of historical fact, constitute “forward-looking statements”. All statements regarding the
+Company, its financial position, business strategies, plans and prospects and the future prospects of the industry which the
+Company is in are forward-looking statements. None of the Company, its shareholders, directors or advisers or any third
+party involved in the Token Sale represent, warrant or undertake that the actual future results, performance or achievements
+of the Company will be as discussed in these forward-looking statements.
+This document includes market and industry information and forecasts that have been obtained from internal surveys,
+reports and studies, where appropriate, as well as market research, publicly available information and industry publications.
+Such surveys, reports, studies, market research, publicly available information and publications generally state that the
+information that they contain has come from sources believed to be reliable, but there can be no assurance as to the
+accuracy or completeness of such included information.
+No information in this document should be considered to be business, legal, financial or tax advice regarding participation
+in the Token Sale. You should be aware that you may be required to bear the financial risk of any acquired VLUX tokens for
+an indefinite period of time.
+The Company does not make or purport to make, and hereby disclaims, any representation, warranty or undertaking in
+any form whatsoever to any entity or person, including any representation, warranty or undertaking in relation to the truth,
+accuracy, and completeness of any of the information set out in this document. This document has been prepared to the
+date hereof and none of the Company, its shareholders or its directors, officers or employees has any duty to update this
+document or provide any further information following such date.
+Company financials are available on request. Please email ito@verv.energy and we will respond with an NDA. Once
+we receive the signed NDA we will share further financial data.
+
+The Evolution of Energy
+
+3
+
+List of Abbreviations
+AI: Artificial Intelligence
+AWS: Amazon Web Services
+CAD: Consumer Access Device
+DER: Distributed Energy Resources
+DR: Demand Response
+DSO: Distribution System Operator
+DNO: Distribution Network Operator
+EV: Electrical Vehicles
+IoT: Internet of Things
+ITO: Initial Token Offering
+NILM: non-intrusive load monitoring
+P2P: peer-to-peer
+TOU: Time-Of-Use
+VHH: Verv Home Hub
+VTP: Verv Trading Platform
+V2G: Vehicle-to-Grid
+
+Glossary
+Blockchain: a distributed, digital ledger in which transactions made are recorded chronologically, and secured using cryptography
+Prosumers: households who both produce (generate) and consume electricity (e.g. with rooftop solar PV)
+Fiat: government-issued currency (e.g. US Dollar, British Pound)
+Smart Contract: self-executing digital contracts that execute when a set of pre-defined conditions have been satisfied
+
+The Evolution of Energy
+
+4
+
+Summary
+Since 2009, Verv has achieved significant traction in the UK energy industry for its patented disaggregation technology that
+provides households with a detailed appliance-level understanding of their electricity use. Following the successful launch
+of the Verv Home Hub (VHH), we plan to extend its functionality through the rollout of the Verv Trading Platform (VTP),
+a blockchain-powered energy trading platform that is being built to enable households and energy consumers to trade
+electricity in a peer-to-peer exchange.
+This whitepaper has four main objectives:
+1. Show the need for change in the energy sector
+2. Demonstrate why Verv believes a peer-to-peer blockchain-powered platform is the right solution to the problem
+3. Show why Verv believe they are the right company to provide the solution at the right time
+4. Outline Verv’s plans and progress to date, for making the VTP platform a reality
+In Section 1, we provide an overview of the energy industry, and introduce the VHH, a non-intrusive load monitoring
+(NILM) device that samples electricity data at frequencies up to 5 million times greater than traditional smart meters.
+This paper demonstrates why Verv believes through their existing hardware, ultra-high resolution energy data, deep learning,
+and AI capabilities, they are uniquely positioned to provide an industry-leading energy trading platform.
+Section 2 explains how key industry challenges (increasing renewables installation, population, and electrification of heat
+and transport) are placing greater strain on the electricity grid, and why Verv believes a peer-to-peer energy trading solution
+will create an efficient market framework that empowers consumers to respond to energy infrastructure requirements
+(for example, by installing PV panels, batteries or providing demand response capacity).
+In Section 3, we illustrate how a peer-to-peer based sharing economy has opened up new opportunities in other industries,
+and show that with recent cutting-edge technological advances (blockchain, IoT, AI, machine learning), we believe a sharing
+economy for the energy industry is a viable reality.
+Sections 4 and 5 provide a technical overview of the VTP system, followed by our proposed business model. We discuss how
+the blockchain trading system works, and how we expect key stakeholders will benefit from the platform. Given the existing
+presence of Verv in the UK, this paper is focused on the UK for the first deployment of VTP, with a view to move quickly to
+Germany and the USA in the near future. Our long-term vision will be to provide a global electricity trading platform.
+Sections 6 and 7 provide an overview of Verv’s existing business and achievements in the domestic energy space, and an
+introduction to key team members, advisors, and project partners.
+Lastly, Section 8 outlines our rationale for selling VLUX tokens through an Initial Token Offering (ITO), and summarises the
+process and structure for our token launch.
+
+The Evolution of Energy
+
+5
+
+1.0 - The Evolution of Energy & Verv
+–
+1.1 Background
+Electricity is a critical form of energy, powering our electronic devices, lighting, heating and cooling systems, household
+appliances, and the Internet. Most of us cannot imagine a day without electricity – and when blackouts occur, our economy,
+society, and public infrastructure grind to a halt.
+Yet, though many of us take our electricity supply for granted, there are significant problems that Verv believes need to be
+addressed.
+The majority of our electricity is generated by dirty, inefficient, and expensive energy systems,1 causing health problems and
+exacerbating climate change.2
+Across the world, the present industrial structure is formed largely by vertically-integrated utility companies and network
+operators. With energy systems centrally controlled, these companies have a strong influence over how, where, and at what
+cost electricity enters our homes.
+However, with increasing penetration of micro scale renewables,3   growing public pressure around climate change, and
+advances in digital and communication technologies, Verv believes the democratisation of our power systems is rapidly
+becoming viable.
+Verv believes a transition to an empowered and
+sustainable energy future can be accelerated by
+focusing on four critical factors at the grid edge:
+1) Access to granular information; in particular,
+understanding the drivers of electrical demand
+2) Provision of domestic energy storage
+3) Maintaining compatibility with grid incumbents
+4) Automated and secure trading of energy at the
+grid edge via a traceable medium, blockchain.
+The company believes a peer-to-peer trading
+platform provides the most effective and
+future-proof way to democratise our electricity
+system: by empowering households to sell their
+excess energy from solar PV or home batteries
+in an open marketplace, the correct market
+incentives can be put in place to support a
+long-term energy infrastructure evolution. Our
+proposed Verv Trading Platform (VTP) provides
+a blockchain-powered platform where energy
+can be traded with low transaction costs. As the
+percentage of intermittent renewable energy increases to meet our global carbon targets, Verv believes that reducing
+transaction costs is essential to support the grid-edge trading needed to balance demand against supply.
+Together, Verv believes the Verv Home Hub (VHH) and VTP present a powerful solution to enable decentralised control and
+production of energy at the grid edge. The VHH, a patented non-intrusive load monitoring device, is already available for
+sale in the UK, with further international orders placed. The device combines Verv’s ultra-high resolution electricity sampling
+capability, with an ability to be upgraded to enable peer-to-peer energy trading. Combined with Verv’s patented technology
+for appliance use disaggregation, Verv believes the VTP can provide the most competitive and advanced technological
+offering for a decentralised energy trading platform.
+
+The Evolution of Energy
+
+6
+
+1.2 Introducing Verv
+Verv’s core product (VHH) is a patented, self-install energy hub that samples a home’s electricity consumption approximately
+5 million times faster than a smart meter.4
+
+It uses machine learning algorithms to derive a real-time profile for key household appliances – providing homeowners
+with a view of their electrical appliances’ current status (i.e. on/off) and condition (e.g. operating at 95% efficiency).
+
+Appliance Signatures
+1800
+
+Mixer
+
+1600
+1400
+
+Toaster
+
+Power (W)
+
+1200
+
+Microwave
+
+1000
+800
+600
+400
+200
+0
+03:20
+
+06:40
+
+10:00
+
+13:20
+
+16:40
+
+20:00
+
+23:20
+
+26:40
+
+30:00
+
+33:20
+
+36:40
+
+40:00
+
+43:20
+
+46:40
+
+50:00
+
+Time (mm:ss)
+
+The next generation VHH with a Consumer Access Device (CAD) is expected to be available for less than £100. VHH has
+been designed to connect to the cloud via Wi-Fi network and provide users with a central hub for controlling other cloudconnected smart appliances. Verv is starting to build considerable market traction, with hundreds of VHHs already sold, and
+pre-orders being developed in the thousands from organisations / users seeking:
+• A breakdown of their individual appliance costs, their deviation to the UK average, and ROI calculations to recommend
+upgrades to the latest eco products
+• Predictive maintenance alerts for key appliances (i.e. letting you know your fridge is about to break down before it does)
+• Control and communication with smart appliances and smart home products like Amazon Echo
+The next generation VHH (due for release in Q2 2018) has been designed with a government-standard Zigbee
+communications chip which will enable it to function as a consumer access device (CAD). This CAD has also been
+designed to connect directly with smart meters for Verv to be able to control and switch tariffs on behalf of the
+consumer. CADs are newly-mandated household devices showing actual tariff rates in £ / kWh from the UK national
+roll-out of smart meters. Combined with consumption pattern data and peer-to-peer energy trading, the next generation
+VHH is expected to enable each household to procure electricity from the cheapest energy provider.
+
+The Evolution of Energy
+
+7
+
+On the rollout of smart meters, Centrica’s director
+of technology was quoted in The Times stating,
+“What we call a smart meter today is pretty dumb.
+It’s dumb because the amount of signals it takes
+is like one every ten seconds... When something
+new comes in [with reference to Verv] we have to
+recognise there is something better. We have to
+find a way of opening it up so it can be put in.” 5
+The map shows the expected compatibility of the
+Verv unit globally. Countries shaded in dark blue
+should in most cases be compatible with VHH,
+requiring only a plug change for the mains socket
+where applicable.   By the end of Q4 2018, Verv
+plans to launch a modified system suitable for
+rollout in the USA and Canada.
+The system has been designed so all owners of a VHH can receive a remote firmware upgrade that enables them to start
+trading on the VTP system.
+Active selling of VHHs is an important precursor to Verv’s energy trading platform: it provides early adopter feedback, and
+improves the machine learning algorithm through collecting multiple household usage datasets.
+
+220-240V/50Hz
+
+100-127V/60Hz
+
+220-240V/60Hz
+
+100-127V/50Hz
+(available soon)
+
+The VHH’s advanced disaggregation ability combined with AI has been designed to enable the generation of accurate
+consumption forecasts generated in real-time. Verv believes these demand forecasts play a critical part in ensuring a
+smooth transition to a decentralised, bi-directional energy system. Verv believes their existing technology and capabilities
+in energy data monitoring and analytics provides an unparalleled advantage over current competitors. Where a number
+of competitor offerings rely on smart meter data to track electricity flows, Verv’s patented technology provides ultra-high
+resolution readings that enable disaggregation of electricity readings, and identification of key electrical appliances in the
+household.
+To provide a comparison with the retail industry, the difference is between knowing the total value of customer spend, and
+having detailed, item-level transaction data for each customer. We believe the former enables rough prediction of how
+much a customer might spend in the future; and that the latter enables more powerful and accurate predictions that take
+into account customer purchasing habits, behaviour traits, exogenous factors (e.g., weather, special events), and clustering
+of customer preferences and tastes.6
+For example, smart meters would be able to tell 1.5 kWh of energy was used between 12:30pm and 1pm; whereas Verv
+has been designed to tell whether it was a kettle and a washing machine, or a dishwasher and hair straighteners, as well as
+how long they were switched on for. With more detailed knowledge of user behaviour, Verv should be able to make better
+predictions for optimised energy trading decisions.
+
+The Evolution of Energy
+
+8
+
+2.0 - Industry Overview & Market Trends
+Over the coming decades, energy systems around the world will face significant challenges from increasing electricity
+demand, changing sources of generation, ageing infrastructure, and disruptive technologies.7
+Climate change has been recognised as a global threat, and concerted action to reduce greenhouse gas emissions has
+led to significant technological developments in renewable technology, electric vehicles (EVs) and electricity storage. The
+Paris Agreement commits 194 countries to dramatically reduce their carbon emissions, and the impact of climate change
+mitigation is expected to have profound consequences on electricity systems across the world.8
+
+For example, global leaders are actively seeking solutions to the widespread adoption of EVs and electric heat sources, as
+these will cause significant demand balancing and transmission challenges at critical points throughout the day. Supply is
+shifting towards a growing base of intermittent renewable power that cannot be switched on or off to meet demand.
+Left unaddressed, Verv believes the increased strain on our electricity grid could result in more power outages, higher
+bills, or both.9  At the same time, the economic and social cost of just a few seconds power outage is increasing,10 with an
+expected growing multiplier effect of negative consequences.
+Verv believes a sustainable, secure, and resilient electricity system is critical to the success of any society and economy particularly as we grow increasingly reliant on technology and our smart devices. Under this lens, changes in supply and
+demand of electricity could present a significant challenge for the future, as well as a potentially valuable opportunity to
+upgrade our electricity grid for the 21st century. Governments around the world have acknowledged the need for investment
+and development of a smart and flexible grid.11
+Verv believes the future grid should:
+• Support the transition towards a smarter, more sustainable and flexible energy system
+• Empower consumers to take control of their energy suppliers
+• Encourage technologies that allow consumers to generate, store,
+and trade their own electricity in a cost-effective and affordable way
+• Provide opportunities for entrepreneurship and innovation
+
+The Evolution of Energy
+
+9
+
+2.1 Generation
+Historically, electricity generation has been a centralised, carbon-intensive process. Large power plants would generate
+electricity by burning gas, oil and coal. Scale was critical: larger power plants could be more efficient, so power generation
+was predominantly centralised by large utilities then distributed to the end user. While such generation has the advantage
+of allowing supply to follow demand, Verv believes such energy generation technologies are unsustainable in the long-term,
+which is leading to an increased focus on alternative renewable generation technologies. Governments are also looking to
+improve security of supply, by increasing domestic generation and reducing reliance on foreign energy imports, which may
+pose political risks or increase dependencies on foreign countries.
+Increasing Renewable Generation
+Technological developments in renewable energy (in particular, solar and wind power) have accelerated12 rapidly to address
+the growing need for a clean and sustainable source of power. Globally, microrenewables and distributed energy resources
+(DER) continue to fall in price, reaching price parity with fossil-fuel electricity, and making their widespread adoption
+accessible to the mass consumer market.13 For example, rooftop solar in the US is now cost competitive with most utility
+prices,14 which has resulted in microgeneration communities emerging across the country, from New York to California. In
+Spain, renewable energy capacity accounted for more than 45% of total national installed capacity by 201615.
+These changes have led to a growing body16 of prosumers: households and small businesses, traditionally consumers
+of electricity, who are now producing electricity. Excess electricity that has not been used by the owners can be fed back
+to the grid and used by other households. For a typical household with solar panels, 20-40% of energy generated is not
+used by the prosumers, providing a growing source of grid capacity.17 While this generation is low carbon, it is intermittent,
+requiring demand to follow supply. This then requires higher levels of sensing, storage, and control to support successful
+grid integration.
+
+2.2 Transmission
+Energy Losses Through Transmission
+Existing transmission infrastructure was built to connect large power stations with households across the country. These
+large power stations were typically built in remote locations far from densely populated areas as they were dirty (coal) or
+potentially dangerous (nuclear), posing dangers to human health. Others were situated close to fuel sources (e.g. coal
+mines) to minimise cost of fuel transportation.
+However, electricity transmitted across these distances results in energy losses and greater cost to the consumer. According
+to the International Electrotechnical Commission (IEC), losses from centralised generators to the consumer ranged between
+8-15% because of the ‘joule effect’, where energy is lost as heat in transmission cables and substation transformers.18
+Local generation of renewable power can reduce wasted energy, as electricity needs to be transmitted only a short distance
+before use, reducing the overall cost and increasing the efficiency of the energy system.19
+
+The Evolution of Energy
+
+10
+
+The Potential for Blackouts
+Further, the traditional electricity grid infrastructure relies
+on long power cables running across the country, which
+are vulnerable to disruption from falling trees or adverse
+weather conditions.20 One collapsed power line can cause
+disruption for thousands, and restoration of power can take
+days. A natural disaster that brings down power lines can
+disrupt power supplies for thousands of households, lasting
+days or weeks (see box).21
+A local, more decentralised energy system could provide an
+alternative source of electricity during a centralised power
+outage and could limit the impact of blackouts. Households
+looking for a more robust and resilient energy supply have
+already been adopting microgeneration solutions to provide
+backup power during central power outages.22
+
+Estimates show that short blackouts cost the
+US approximately $110 billion every year.
+To highlight just three natural disasters in 2017/8:
+• Storm Eleanor caused power outages to over
+75,000 homes in the UK and Ireland;
+• Storm Irma resulted in blackouts for over 6
+million homes in the USA, some left without
+power for over a week;
+• Hurricane Maria left parts of Puerto Rico without
+power for more than 4 months.
+
+2.3 Energy Consumption
+Despite efforts to reduce energy consumption and improve energy efficiency, a growing population and the electrification of
+transport and heating is expected to increase demand for electricity through to 2050. Total UK domestic annual electricity
+consumption is estimated to increase from 112 TWh today to 132 TWh in 2050, with peak electricity consumption anticipated
+to increase from 65 GW today to 85 GW by 2050.23 Global electricity consumption is set to double in the next 40 years.24
+
+Increasing Population
+A growing population base should result in higher electricity demand. In the UK, population is expected to increase from
+66m to 75m, and in the USA from 320m to 390m by 2050.25   Globally, population is forecast to grow by 2bn people to
+9.8bn in 2050.26  Importantly, access to electricity is also expected to increase: where 1.1bn are currently without access to
+electricity, forecasts expect that figure to drop to 400m by 2050.27
+
+Electrification of Transportation
+By the end of 2018, the cost of owning an electric vehicle (EV) is forecast to reach parity with combustion engines.28 With
+driving range extending and charging infrastructure booming, estimates indicate that by 2025, one in six cars purchased will
+be an EV, building from an existing two million EVs on the road globally.29 While a growing fleet of EVs will add to demand for
+electricity, they also present opportunities for providing balancing services. All EVs have a battery which should be capable
+of removing or providing electricity to and from the grid, according to demand and supply needs at that time.
+
+Electrification of Heating
+To meet climate change goals, industry experts believe gas-powered heating systems will need to be electrified before
+they can be decarbonised. In the UK, for example, National Grid have estimated the number of gas boilers will have to
+reduce from 22 million today to 7 million by 2050.30 Many of these boilers will have to be replaced with electrically-powered
+air, water, and ground-source heat pumps which offer significantly improved heating efficiencies. To reduce their carbon
+impact, they will have to run on renewable electricity.31 Verv believes this will to result in an increased demand for electricity,
+particularly during existing peak hours of demand, placing further strain on existing grid and supply infrastructure.
+
+The Evolution of Energy
+
+11
+
+2.4 Challenges and Opportunities for Tomorrow
+Verv believes the convergence of increased intermittent renewable energy generation and higher electricity demand,
+operating on an ageing transmission and distribution network, poses a challenge for network operators trying to balance
+supply with demand. Solar and wind power can only be generated when the sun is shining and the wind is blowing,
+irrespective of electricity demands at that moment in time. The result is a growing operational challenge for electrical power
+system controllers and increasing strain on grid infrastructure.32  Left unaddressed, expensive infrastructure upgrades will
+be required, resulting in potentially higher future energy bills.33
+There have been a number of proposed solutions to the challenges facing the electricity grid: installing additional battery
+capacity, increasing local generation of renewable power, developing microgrid solutions, increasing demand response (DR)
+capability, and developing peer-to-peer trading capabilities.34
+Of these, Verv believes peer-to-peer energy trading provides the critical service of consolidating these disparate solutions
+and optimising the economic efficiency of the system. Verv aims to enable participants who develop battery capacity, add
+microgeneration solutions, or provide DR services to trade their generation and storage capacity on the peer-to-peer
+platform. Verv believes consumers will be incentivised to use energy at a time that places less strain on the grid, driving a
+virtuous cycle of additional revenue, engagement and innovation.
+
+Towards a sharing economy and peer-to-peer trading
+In recent years, the sharing economy has become the new normal,35 disrupting many incumbent industries and providing
+more choice on the market. Where private assets were previously left underutilised, the sharing economy has enabled
+individuals and households to monetize existing assets, improving resource efficiency,36 increasing market competition,
+and providing better outcomes for consumers. AirBnB and Uber have developed global networks of peer-to-peer resource
+sharing, and many others (HiyaCar, JustPark, Lyft) are following quickly behind.37
+The success of the sharing economy is also due in part to the customer’s interest in provenance and understanding the
+complete supply chain of consumer items. From chocolate and coffee beans to the latest smartphone, consumers want
+to know their purchases have been sourced from ethical, sustainable and environmentally-friendly origins.38 Globally, “Buy
+Local” has become a powerful slogan for small and growing businesses, as customers look to support communities and
+individuals, rather than corporations.39
+As the peer-to-peer, sharing economy becomes more mainstream, its application to the energy sector has already begun in
+communities around the world.40 Verv believes the potential benefits of innovation are significant: households can procure
+their electricity from other households with solar power, for lower prices, more sustainable outcomes, and clear knowledge
+of where their money is going.
+The value of this opportunity is clear. In the past 24 months, several companies (e.g. LO3, Grid+, Power Ledger) have
+announced plans to develop peer-to-peer energy trading capabilities. Verv’s new VTP product will build upon their previous
+proposals – but with our existing VHH hardware, technology, and ultra-high resolution energy data, Verv is hopeful in its
+ability to provide a more effective and compelling solution, particularly over competitors using smart meter technology.
+Through a single product, Verv intends to offer a combined value proposition: providing detailed energy disaggregation
+information, services derived from the data (e.g. fire safety alerts), and energy trading capabilities.
+
+AirBnb for the electricity sector?
+AirBnb has enabled owners of prime real estate to earn money from fully utilising their assets – at the same time
+providing new accommodation options for other consumers.
+In the same way, a peer-to-peer energy trading solution could create new opportunities for local businesses to grow:
+owners can install solar panels to generate electricity on underutilised land and building surfaces; and batteries can
+be installed in unused cupboards.
+Additional income generated can supplement owners’ income, while improving the sustainability of our electricity
+system. The sharing economy has already generated many new business models, and Verv believes its application
+to the energy industry presents an exciting new opportunity.
+
+The Evolution of Energy
+
+12
+
+Features and
+
+Potential
+
+Potential impact
+
+Potential impact
+
+Potential impact
+
+How Verv believes a
+
+trends
+
+effect
+
+on utilities and
+
+on the individual
+
+on governments
+
+peer-to-peer energy
+
+traditional grid
+
+consumer
+
+trading solution
+would help
+
+Increasing
+
+Additional
+
+Requires costly
+
+Higher electricity
+
+Political
+
+Better financial incentives
+
+population
+
+demand on grid
+
+infrastructure
+
+bills
+
+unpopularity from
+
+would encourage
+
+and increasing
+
+infrastructure,
+
+upgrades
+
+high energy costs
+
+households and small
+
+electrification
+
+adding greater
+
+resulting in lower
+
+businesses to invest in
+
+pressure
+
+profits and higher
+
+generation and storage
+
+to ageing
+
+cost to customers
+
+capability, increasing
+
+infrastructure
+
+overall system capacity
+Traditional
+
+and efficiency
+
+utilities are more
+likely to invest
+Existing
+
+Vulnerable
+
+long-distance
+
+electricity
+
+transmission
+
+transmission
+
+networks and
+
+network, risking
+
+an ageing
+
+blackouts if
+
+infrastructure
+
+disrupted
+
+in carbon-based
+generation
+technologies –
+due to existing
+infrastructure and
+capabilities
+
+Higher electricity
+
+Political
+
+Encourage local
+
+bills
+
+unpopularity from
+
+generation of electricity:
+
+high energy costs
+
+reduce load on long-
+
+Risk of blackouts
+
+distance transmission
+
+and brownouts
+
+Risk of blackouts
+
+networks and provides
+
+disrupting day-to-
+
+and brownouts
+
+local backup for electricity
+
+day life
+
+disrupting
+
+in case of blackout
+
+economy and
+society
+Carbon-
+
+Contributing
+
+Higher electricity
+
+Political
+
+The majority of
+
+intensive
+
+to climate
+
+bills and lack
+
+unpopularity from
+
+small-scale electricity
+
+generation
+
+change and
+
+of sustainable
+
+high energy costs
+
+generation is based on
+
+technologies
+
+environmental
+
+energy supply
+
+impacts
+
+options
+
+renewable technologies,
+Failure to meet
+
+reducing the carbon
+
+international
+
+intensity of electricity
+
+agreements on
+
+generation
+
+climate change
+action (e.g.,
+COP21 Paris
+agreement)
+
+The Evolution of Energy
+
+13
+
+3.0 A Peer-to-Peer Energy Trading Solution
+Peer-to-peer is not just about social good and
+sustainability: Verv believes it also makes economic
+sense. For the majority of households, price is the leading
+factor that determines their choice of energy supplier.
+Surveys have shown that cost savings and lower prices
+are the primary reason for changes in energy suppliers.41
+In our view, peer-to-peer energy trading presents an
+exciting option that enables consumers to benefit from
+their neighbours’ excess energy from microrenewables
+and/or energy storage. We expect the benefits for both
+parties entering into an energy trading exchange to
+be significant.
+In the UK, households with solar panels are paid 5.0p
+for every kWh of solar electricity they sell to the grid (an
+export “feed-in-tariff”). At the same time, their neighbour
+pays an average 14.3p per kWh to buy electricity from
+an energy retailer.42 With peer-to-peer trading, they can
+potentially meet in the middle, e.g. buying and selling for
+an average of 11p per kWh, including transmission and
+distribution fees.
+
+Regulations
+surrounding
+transmission
+and
+distribution fees will vary significantly by country, and
+Verv is committed to working closely with government
+bodies and regulators to introduce appropriate fees
+given the characteristics of the electricity trade.
+While current legislation in most countries does not
+accommodate the ability to determine transaction
+fees on a trade-by-trade basis, Verv believes there is
+appetite in the industry to change current fee structures.
+Verv believes distribution and transmission fees
+should reflect the actual use of the network: if
+electricity is traded locally, within a single building,
+during off-peak hours, charges should reflect the
+reduced strain placed on the electric grid. Verv
+expects Network operators should be aligned
+with such goals: encouraging local generation and
+consumption of electricity during off-peak hours will
+reduce the load on the network.
+
+In our example, the prosumer potentially receives greater income from their renewable power sources and the consumer
+potentially pays less for their electricity. Therefore, both parties should benefit financially, and the transactive efficiency
+should be improved, due to shorter distances from power generation to consumption.
+While household solar installation has been growing,43 Verv believes the existing pricing system currently creates disincentives
+for households to install capacity beyond their single household’s consumption levels. California Solar Initiative encourages
+“right sizing” of installed solar capacity, as net metering regulations stipulate self-generated solar power can only be used to
+offset energy bills, but not generate additional revenue.44 In the UK, households that sell electricity to the grid are paid 6070% less than the retail price of electricity, resulting in a typical return on investment (ROI) of 14 years.45
+Households can also benefit from installing batteries where time-of-use tariffs (ToU) are available. ToU tariffs (where cost
+of electricity is higher during peak hours, and lower during off-peak hours) are already widely used in California and Hawaii,
+and are increasingly common in the UK.46  With peer-to-peer trading, households should be able to charge their battery
+during off-peak hours, then sell electricity to other households during peak hours. In doing so, they should have the ability
+to generate revenue, reduce electricity costs for other consumers, and help the grid to balance its supply and demand.
+A peer-to-peer energy solution is designed to enable consumers to buy electricity from each other, encouraging future
+investment in small scale renewables and battery storage. Verv believes this empowers households to take active control
+of their electricity supply, create new business opportunities, and support the transition to a more responsive, flexible,
+sustainable electricity grid.
+
+3.1 Why now and why Verv?
+In the past, Verv believes such peer-to-peer energy trading would have been infeasible, due to the complexity of monitoring
+and confirming energy and financial exchanges. Where assets like spare rooms and parking spaces could be considered
+comparatively easier to track and control, electricity could be considered much more complex.
+Monitoring electricity flows on a second-by-second basis and faster requires complex sensors and advanced data processing.
+Control of electrical appliances is currently predominantly manual. Electricity consumption occurs every second of the day
+for 365 days a year, generating an incredible amount of data. Ongoing electricity purchases require an extensive number
+of transactions, for which Verv believes traditional reconciliation and auditing via intermediaries can be onerous and costly.
+
+The Evolution of Energy
+
+14
+
+However, technological advances in recent years have paved the way to make peer-to-peer energy trading a compelling and
+exciting reality. In particular:
+• Digitalisation of the energy industry and continuing advances in IOT and semiconductor technology (in line with
+Moore’s law) has made ultra-high resolution non-intrusive load monitoring of electricity an affordable reality
+• Developments in blockchain technology have provided a means of digitally tracking and authenticating transactions,
+removing the need for intermediaries who increase the cost of these transactions
+• Advances in deep learning and AI algorithms enable complex analytics on consumption patterns to be generated,
+enabling accurate predictions of consumption and optimisation of energy trading.
+In the following section, we will describe these technological developments in greater detail. Verv believes each of these
+technologies has reached a level of sophistication and mainstream adoption that has driven down cost, and improved
+accessibility and ease of implementation.
+While Verv shares some characteristics with other proposed P2P platforms, Verv is focused on differentiating itself through
+high frequency sampling of electricity and applying deep learning AI via the VHH to generate consumption and generation
+forecasts of an advanced nature, which can optimise the pairing process for energy trades. According to information in their
+whitepapers, a number of competitors are still developing and testing their hardware needed to enrol customers onto their
+platform;47 Verv, on the other hand, already has a commercially-ready hardware unit with corresponding software and data
+processing capabilities. Having been at the forefront of key data sampling technologies since 2009, Verv has an established
+track record of accelerating innovation within the energy sector.
+
+The Evolution of Energy
+
+15
+
+3.2 Digitalisation of Energy and IoT
+The electricity sector has been undergoing a rapid digital transformation.48 The recent International Energy Agency (IEA)
+flagship ‘Digitalisation and Energy’ report noted that: “Investment in digital electricity infrastructure and software grew
+over 20% annually between 2014 and 2016, overtaking global investment in gas-fired power generation.” 49 Widespread
+installation of measurement instruments (e.g. smart meters, Verv Home Hubs) and cloud-based communication platforms
+are facilitating a new, smart ecosystem that could provide autonomous, inter-property exchange.
+
+Broadband and 4G (and soon 5G) are widely available, the cost of connecting is decreasing, and an increasing number of
+devices are manufactured with built-in sensors. Application programming interfaces (APIs) mean disparate systems can
+autonomously communicate. For example, Amazon’s Echo can be integrated with Hive’s Smart Home control systems, so
+users can ask Amazon’s Alexa to switch off the heating, or turn off the lights – without having to go through a Hive interface.  
+These developments provide an opportunity for high resolution data to be recorded in real-time, transferred to the cloud
+for processing, and the analysis presented to users or automated response systems.
+In relation to energy, these technical developments should mean that participants within an IoT network are able to understand
+(with detailed granularity and without human intervention) how, where, and why their energy is transacting.  Combined with
+control systems, Verv believes IoT extends the technical capabilities of domestic energy storage to 1) connect PV arrays to
+batteries, and 2) communicate when to store / discharge electricity. Verv believes such control capability will enable users to
+maximise revenue and ensure their storage requirements are met, while optimising battery life and condition.
+In parallel, the market for storage technologies has been expanding. In 2016, the domestic market for storage grew by 284%,
+and is expected to reach an installed capacity of 40 gigawatts by 2022.50 Combined with falling costs per kWh of capacity
+(with some companies expecting to achieve $100/kWh in 201951) and battery advancements in density, compactness and
+safety, the co-location of storage systems is quickly becoming an essential add-on for households installing small-scale
+renewables.
+
+The Evolution of Energy
+
+16
+
+Verv believes the VHH is the perfect counterpart to the growing digitalisation of energy, providing industry-leading energy
+consumption data that is able to inform the monitoring and optimisation of battery usage. For consumers, remote sensing
+should be able to tell them whether their neighbour’s infrastructure has the capacity to supply cheaper electricity; for
+prosumers, which households have demand for their excess energy.
+In combination with its analytical capabilities, the future VHH has been designed to communicate directly with smart plugs
+and smart appliances, enabling households to control their appliances remotely and/or automatically via pre-set machineto-machine (M2M) controls. This functionality is expected to enable home energy systems to be programmed to switch
+smart appliances on/off depending on real-time electricity capacity and prices. Verv believes IoT and AI make executing
+peer-to-peer energy transactions at the grid edge technically feasible, and an increasingly practical option.
+
+3.3 The Blockchain Future
+Current financial transactions rely heavily on intermediaries such as banks and utility companies, who build trust and
+reliability into the transactional process through authentication and record keeping. Historically, digital transactions for
+assets (money, stocks, energy) have been particularly reliant on intermediaries as the ability to duplicate digital data (either
+intentionally or unintentionally), would enable users to spend the same unit of value more than once. In a peer-to-peer
+transaction, without intermediaries accountable for managing the transaction, it would be difficult for the exchanging parties
+to authenticate the trades. However, Verv believes blockchain solves this problem.
+At its essence, blockchain is a distributed ledger or decentralized database that maintains immutable digital records of
+ownership and transactions. Instead of a central administrator using a relational database, a distributed ledger has a
+network of replicated ledgers, synchronized via the internet and visible to anyone within the network. Blockchain networks
+can be private with restricted membership (like an intranet), or public and accessible to any person in the world (like the
+Internet). As the trading platform is distributed across multiple nodes, blockchain technology ensures integrity and reliability
+of the ledger without the need for a third-party intermediary.
+Considering the number of transactions and participants in a peer-to-peer energy trading system, Verv believes blockchain is
+integral to the feasibility of the platform through enabling all parties to minimise transaction costs, improving the economics
+for all involved.
+Verv’s in-house team of blockchain developers have developed a blockchain platform, which Verv expects will enable users
+to trade electricity on the Ethereum platform. The platform has been designed for flexibility, with the intention of allowing
+additional use cases to be easily incorporated.
+
+3.4 Artificial Intelligence (AI) / Machine Learning
+Advances in machine learning and AI have over the past few years transformed many industries, improving predictive
+capabilities and providing better models of human behaviour. For example, the development of complex machine learning
+algorithms has enabled retailers to predict customer activity, understand trends in consumer purchasing behaviour, and
+adapt advertisements and content for customers’ individual preferences.
+Verv believes these advances can be applied to the energy sector, using algorithms to disaggregate electricity data to
+appliance use information, and providing better predictions of energy use behaviour. Under this lens, Verv believes machine
+learning will become a critical enabler for energy trading and the balancing of supply and demand of electricity.
+Verv’s embedded AI has been designed to build on IoT’s passive sensing and control functionality, through deriving patterns
+and relationships from multiple datasets to guide the flow of energy in its most economical and sustainable form. The
+datasets Verv’s AI has been designed to draw from include:
+1) Granular detail on household electrical activity, both on i) appliances and ii) microgeneration/storage assets (capacity,
+performance, state of charge)
+2) External factors influencing electricity generation/consumption, specifically weather forecast data, geolocational data,
+satellite data on cloud coverage and opacity.
+
+The Evolution of Energy
+
+17
+
+Verv has designed the system to process these data feeds with neural networks, which are being trained to identify interconnected patterns so that Verv’s forecasts for generation, consumption, and battery activity can be continuously improved.
+Verv expects this to result in the efficient utilisation of electrical infrastructure, and therefore provide an assurance that the
+generated kWhs will be traded at the right time for the best economic return.
+To achieve this, the VHH has leveraged key developments in machine learning, particularly deep learning. VHH’s existing
+presence in households means that Verv has an extensive dataset of detailed appliance-level energy usage, enabling it to
+train powerful models of consumption behaviour.
+Further, Verv expects the AI algorithms should be able to learn not only customers’ electricity consumption behaviour, but
+also their patterns of engagement with energy trading. Rather than requiring ongoing input and decisions from the user, it is
+anticipated that the algorithms will learn how the user interacts with the platform to provide a customised experience that
+ensures long-term, sustainable customer engagement.
+
+The Evolution of Energy
+
+18
+
+4.0 Introducing the Verv VLUX Blockchain Framework
+By combining innovations in machine learning, blockchain, IoT, and energy storage, Verv hopes to lead the development of
+peer-to-peer energy trading. The VTP has been designed to facilitate trading at the grid edge. Prosumers selling electricity
+are expected to receive a better payback, incentivising installation of renewable infrastructure and storage; consumers
+should be able to diversify their electricity supply, purchase energy at lower prices, and may also be incentivised to consume
+electricity during off-peak hours, or when renewables generation is high, which in turn should mitigate the variability in peak
+consumption and renewables generation.52
+Using proceeds from the Initial Token Offering (ITO) and the value of aggregated data, Verv aims to fund a freemium model
+for the VTP, providing participants the option of using the VTP with no platform cost.
+
+4.1 Getting set-up on the VTP Network: a household’s point of view
+Imagine a street with 10 houses, where only a few houses have PV panels and electric storage.
+At certain points of the day:
+• Households with PV panels are generating more than they can consume and are selling the excess
+to the grid, at an export (“feed-in”) tariff of 5p/kWh
+• Other households have electricity demand, currently purchasing electricity from conventional energy
+suppliers at 14p/kWh
+After taking into account transmission fees, payable to transmission and distribution system operators, there might be
+additional margin for prosumers to receive a higher rate for their generated electricity, and for consumers to pay less than
+14p/kWh. Furthermore, feed-in-tariff rates have been declining globally, which Verv believes increases the importance of
+providing households with a peer-to-peer trading alternative. Recognising the imbalance and opportunity, this community
+implements a system for trading this surplus solar energy.
+
+The Evolution of Energy
+
+19
+
+Prosumers within this community install a VHH, with current clamps attached to their main electricity meter, their PV array,
+and their battery (if present). The Verv app registers the prosumers to the VTP platform.
+Consumers within the network can either install a VHH (with current clamps attached to their main electricity meter) or they
+can use their existing smart meters to initiate a data feed to the VTP.
+
+4.2 Peer-to-Peer trading on the VTP Network
+VTP’s provision of a premium peer-to-peer trading experience begins with the collection of electricity consumption data
+to build up a history of each household’s electricity use at the appliance level. Verv’s expertise in appliance-level power
+signature identification is expected to produce more accurate, real-time consumption forecasts, resulting in a system with
+an expected inherent information-first advantage. Verv believes that more accurate forecasts on future energy requirements
+help the consumers’ VTP systems trade faster and further ahead, and should help prosumers’ VTP systems maximise their
+generation/storage assets for maximum economic utility.
+
+To illustrate the trading system, consider just two houses: one with PV/energy storage (Alice) and another without (Bob).
+The energy trading process below may appear complex, but in practice it is anticipated that users will simply have the option
+to set their preferences in the VTP app (if they choose), and we anticipate that all trading will occur automatically without
+user intervention. In this example, Alice has set her VTP system to ensure her battery always retains at least 50% charge, and
+the minimum sell-price is 10p/kWh. The VTP algorithms are being designed to automatically optimise trading to maximise
+revenue and minimise costs.
+The software on Alice’s system has been designed to recognise that if her battery has no stored electricity, and the solar PV
+is not generating electricity, she will have to purchase electricity from her electricity supplier for a higher price. Bob does not
+have generation assets, therefore his system’s AI will only be able to consider his future demand forecast.
+In order to decide whether energy should be transacted, the Verv AI is being developed to take into consideration:
+• Current battery state of charge
+• Maximum battery capacity
+• Forecast household demand for electricity
+• Forecast generation of electricity from solar panels
+• Any additional input parameters set by users (e.g. minimum kWh charge of battery at all times, or maximum trade amount)
+
+The Evolution of Energy
+
+20
+
+Step-by-step guide of trade matching algorithm
+• At 7am, the sun is shining and Alice and Bob’s VTP systems begin analysing the next 4-hour period.
+• Alice’s VTP system highlights a time window during the next 4-hour period where she can sell 1 kWh.
+• Bob’s VTP system sees this capacity on the blockchain, and as his current cost of electricity from the grid is 14.3p/kWh
+(average unit cost of electricity in the UK),53  the system places a bid of 7p/kWh for Alice’s surplus.
+• Alice’s VTP system has already developed an optimal trading strategy for the best usage of her assets, so her system
+automatically places an ask of 13p/kWh (including associated transmission and network costs).
+• During this first period of trading on the blockchain, no match is made.
+• Without a match, Bob’s system increases his bid. Similarly, Alice’s system decreases her ask. This process continues until
+Alice’s system’s ask matches Bob’s system’s bid, and a smart contract is formed.  
+• Having verified Bob has transferred the required money to the escrow, the VTP’s proof of delivery system verifies that 1kWh
+of electricity has left Alice’s house, and 1kWh has entered Bob’s house.
+• The smart contract executes when proof of delivery has been confirmed: Bob’s payment is made to Alice, with any other
+transaction costs transferred to the relevant parties.
+In the example above, trades took place four hours in advance, however, with more data to refine Verv’s algorithms, the
+forecasting and trading time window can increase. Greater forecast accuracy is expected to enable households with Verv
+units to trade further ahead each day, enabling further optimisation of trading decisions, which could allow households to
+capture the best prices for their system.
+The description above illustrates how a single trade occurs; the following section explains how the trade fits within the larger
+VTP ecosystem.
+
+4.3 A system perspective: the VTP and token ecosystem
+Consider now a group of houses looking to trade with one another. For peer-to-peer trading to occur without a trusted third
+party, the community uses a blockchain platform with a smart contract. The smart contract allows two parties to enter in a
+trade agreement, and for the agreed funds to be held in an escrow while the exchange of energy takes place. However, as
+fiat cannot be used in the smart contract, each participant will have to trade tokens with a public exchange for use on the
+platform. Verv has introduced the VLUX token to enable energy trading within the VTP blockchain platform.
+
+The Evolution of Energy
+
+21
+
+The diagram above shows a simplified representation of how such a system would work. However, in this system, each
+household would have to purchase VLUX tokens from a public exchange continuously, which would incur additional broker
+/ exchange transaction fees.
+To avoid this, the VTP introduced local aggregators into the system. The aggregator purchases VLUX tokens from the public
+exchange and makes them available for prosumer and consumer households to use within their local area. Households will
+simply have to ensure they have the required fiat funds or billing permissions in their account, and have switched on the VTP
+trading capabilities. Everything else will be automated.
+
+A more detailed overview of the system is provided below
+
+The ecosystem
+VLUX Token
+
+• VLUX tokens will be utility tokens providing participation and reward capabilities within the VTP. Every
+transaction that takes place on the VTP has to be conducted in VLUX tokens. As a result, Verv expects
+that the value of VLUX will increase as the VTP gains traction and expands its network.
+• VLUX tokens will be purchased on the public token exchange by ‘local aggregators’ to enable energy
+trading within a local trading community (see below).
+• VLUX tokens may be traded on the public exchange for fiat, or they may be redeemed for other
+goods and services (e.g. in-app upgrades, VHH add-on services), or to purchase VHHs for friends and
+family. All VLUX token holders will receive a code for 10% discount off the retail price of a VHH at the
+conclusion of the main token sale.
+• VLUX tokens can also be provided as reward for developing VHH and VTP capabilities, in innovation
+contests, or for winners of Verv-hosted hackathons.
+• Some percentage of proceeds from platform fees will be exchanged for VLUX to be burned in a smart
+contract. Burning VLUX will increase the scarcity of the tokens, which we believe should result in price
+pressure for the token.
+• Through a local aggregator, consumers and prosumers are not required to purchase VLUX tokens
+directly from a token exchange to participate on the platform: any interaction with VLUX tokens will be
+automated through the VTP software. As prosumers and consumers exchange fiat and VLUX tokens
+instantaneously at spot prices, they should not be exposed to volatility in VLUX token prices.  
+• In the long term, if, as expected, electricity systems become more deregulated and regulations
+change to accommodate peer-to-peer trading, prosumers and consumers will be able to buy VLUX
+tokens directly to trade with one another. If they choose to, they will be able to purchase VLUX tokens
+and create/join their own user communities.
+
+The Evolution of Energy
+
+22
+
+Local
+Aggregators
+
+• Local aggregators provide a broker function for each local trading network, enabling prosumers and
+consumers within their network to trade electricity on the VTP. Local aggregators exchange VLUX and
+fiat for users within their local trading community in real-time at spot-prices.
+• Local aggregators can be, for example, utility companies (e.g. British Gas), commercial electricity
+generators (e.g. AWS Power, Orsted Energy), or community groups (e.g. Hackney council housing blocks).
+• Each local aggregator community will contain approximately 100-500 households; if the community
+grows beyond 500 households, it will be split into two communities according to households’
+postcodes, etc. By capping the size of local communities, this limits the size and complexity of the
+local blockchain ledger. These communities are expected to be local in order to minimise grid
+transmission costs.
+• Local aggregators can set a local aggregator fee for all transactions that take place within their local
+trading community.
+• The system will allow real-time trading across multiple local communities and aggregators should
+they choose.
+
+Prosumers
+& Consumers
+
+• The interaction of the prosumers and consumers with the VTP is intended to be as minimal as
+possible. Users will have to opt-in to the VTP, and may set some parameters (e.g. trade only PV energy,
+battery maintains at least 50% charge). All further trading will be automated, without intervention
+from the user.
+• Prosumers and consumers’ devices agree a trade in fiat (e.g. USD, GBP), however, the transaction
+will require VLUX tokens to be executed: this will occur behind-the-scenes, without prosumers and
+consumers needing to be aware of the use of VLUX tokens.
+• As the VHH generates more energy use data, the VTP’s neural network algorithms adapt to user
+behaviour and preferences, providing a consistent trading experience, increasing product relevance,
+and avoiding user disengagement.
+• The first 200,000 VHHs will be sold with VLUX tokens pre-loaded. These tokens can be exchanged for
+credit when the user joins the platform, or used to redeem a range of Verv in-app upgrades providing
+additional services and functionality.
+
+The Evolution of Energy
+
+23
+
+The Evolution of Energy
+
+24
+
+To illustrate the VTP trading in greater detail, consider a single local aggregator in the diagram above. Note that we anticipate
+that steps 2-12 will be automated by the Verv trading engine, and will not require active input from any of the participants
+(i.e. prosumers or consumers).
+(1) First, a local aggregator will have to create a local trading community. A local aggregator purchases VLUX tokens from a
+public token exchange.
+(2) With an established local trading community, consumers and prosumers are able to trade with one another. A prosumer
+has a kWh energy surplus and the VTP automatically places an offer (“ask”) to the matching algorithm to sell a kWh at a
+particular price, which includes any associated transaction costs.
+(3) A consumer has a kWh energy requirement and the VTP automatically places a request (“bid”) to the matching algorithm
+for a kWh at a particular price.
+(4) On receiving a request, the matching algorithm validates that the consumer has the funds, either via prepaid fiat in the
+consumer’s VTP wallet, or via a billing relationship, to pay for and fulfil the request for 1 kWh.
+(5) On a successful match of requests, the order is sent to the trading algorithm for fulfilment.
+(6) Energy trading within the VTP must take place with VLUX tokens. The consumer sends the agreed amount in fiat to the
+local aggregator, who exchanges it for VLUX tokens.
+(7) The consumer’s VLUX tokens are held in escrow until exchange of energy has been verified.
+(8) A kWh is sent from the prosumer to the consumer.
+(9) When this exchange is confirmed by the VTP (through “Proof of Delivery”), the smart contract executes the transaction.
+(10) VLUX tokens are released from the escrow, and by default exchanged into fiat. The VLUX local community ledger
+is updated.
+(11) The corresponding amounts of fiat are sent to the prosumer and the local aggregator to cover grid and transaction
+costs. Operating fees cover any server, processing, and Ethereum blockchain costs associated with the transaction.
+Where the local aggregator has an established relationship with transmission and distribution operators (e.g. if they are
+an existing energy retailer), they may decide to pay the electricity transmission and distribution costs directly.
+(12) All relevant fees are distributed to the involved parties, e.g. network fees, local aggregator fees, tax, and Verv platform costs.  
+(13) On a daily basis, the VLUX local community ledger publishes a digest of all transactions to the public Ethereum ledger.
+(14) Verv plans to operate a freemium model for the VTP. A portion of fees collected from paying users will be committed to
+community, not-for-profit projects, and/or will be exchanged for VLUX tokens to be burned.
+Note that VLUX tokens are returned to the local aggregator by the end of the trade, so they will not need to continuously
+purchase VLUX tokens: however, they will require additional VLUX tokens if their local community is growing and/or the
+amount of traded energy is increasing.
+Where appropriate, trading may occur with digital representations of tokens or fiat, to accommodate the technical
+requirements of the platform.
+
+The Evolution of Energy
+
+25
+
+4.4 The development of the VTP platform
+The current depiction of the VTP platform illustrates energy trading between households within the same local trading
+community. However, the goal of the platform will be to integrate all participants such that generated electricity can always
+be traded on the VTP, reducing the likelihood of a non-match.
+Trading between participants will occur according to a hierarchy that optimises for transactive efficiency, taking into account
+network relationships.
+For example, the hierarchy might be:
+
+Trade within same housing block, with same electricity retailer
+
+Trade within same housing block, across different electricity retailers
+
+Trade within same distribution network, with same electricity retailer
+
+Trade within same distribution network, across different electricity retailers
+
+Trade across different distribution networks, with same electricity retailer
+
+Trade across different distribution networks, across different electricity retailers
+
+Verv intends for the platform to be flexible and easily scalable. Verv believes the aggregator model enables the platform to
+be customised for varied use cases, e.g. used by electricity retailers vs. housing estates vs. EV charging, while using hash
+functions and transaction digests to reduce the volume of data stored on the public Ethereum ledger.
+As the platform develops, more transactions take place, and more participants join the platform, Verv will adapt the VTP to
+accommodate new use cases, which will affect the value of the token. In the future, Verv plans for a minimum committee of
+five experienced specialists (including industry experts and academics) to manage the VTP. This may include a further token
+burn and mint function, modified smart bonds, or a staking function.
+
+The Evolution of Energy
+
+26
+
+The Evolution of Energy
+
+27
+
+4.5 VTP Platform Technical Details
+For VTP’s initial system, the platform will use the Ethereum blockchain to create smart contracts and verify the ledger. The
+system has been designed to allow for a flexible transition in the future to the optimal stack and toolset depending on the
+reliability and access speed required.
+Ethereum is Verv’s current blockchain of choice due to its global traction, high calibre team, and flexible, open source
+software. Verv’s customised version of the Ethereum blockchain maintains immutability of trading records through digesting
+all VTP token activity back to the public Ethereum blockchain. We have designed the system with the intention of being able
+to adapt the VTP from Ethereum to another public blockchain platform in the future.
+We are planning to utilise a Proof of Authentication framework to validate blocks on the local community ledger. Initially,
+local aggregators will be able to act as the ‘authenticators’ and will be rewarded for validating blocks and penalised
+for not validating blocks correctly.
+
+Top Layer
+Graphic User Interface (GUI)
+
+APIs
+
+Customer Accounts
+
+Middle Layer
+Web3
+
+Custom Energy Prediction Engine
+
+Solar Irridation Prediction Engine
+
+Smart Battery Controller Engine
+
+VHH Core Engine
+
+Oracles
+
+Trading Strategy Engine
+
+Lower Layer
+Ethereum Blockchain Custom Built
+
+Technology Details
+• Programming languages: Python, JavaScript
+• Smart contracts written in Solidity
+• ERC20 token standard
+System Security
+• 256-bytes encryption for data transfer from AWS to VHH
+• SSL certificate security
+• Transactions processed on the box, mitigating exchange tamperability
+• Operating System and memory on VHH are encrypted by AES
+• Multi-key signature capabilities for customer accounts
+
+The Evolution of Energy
+
+28
+
+Frequently Asked Technical Questions on VTP
+> How does Verv avoid the problem of network congestion on the blockchain ledger?
+• Because of the local aggregator model, it is expected there will be a limited number of people trading within each
+blockchain. Each local community is forecast to consist of 100-500 households: as uptake increases, more communities
+will be automatically created based on geography.
+
+> How is the system expected to verify the energy transfer has taken place?
+• Our proof of delivery is in the Verv system and it is done by using the Verv current clamps to monitor the battery, solar PV,
+and home’s electricity meter (or smart meter).  
+• In this, Verv may function as a notification service provider, (similar to an Energy Contract Volume Notification Agent
+(ECVNA) in the UK). Using the VHH’s energy monitoring capabilities, Verv will be able to track the flow of energy through the
+main meter, distributed energy sources, or any installed batteries.
+• We are using a proof of delivery method which should be able to monitor and verify that the energy has been transmitted
+from one premise to another, helping to reduce the risk of tampering. The verification needs to combine the feed-in-tariff
+with the solar output and battery charge/discharge data and monitoring.
+
+> How much does it cost to transact on the VTP blockchain?
+• There is the cost associated with VTP digesting its data back to the public Ethereum blockchain, and which is covered by
+Verv’s transaction fees.
+• The electricity cost of running the current VHH, which already provides all the energy saving tools and individual appliance
+breakdowns plus the existing blockchain operates at approximately 2.5 watts, will be absorbed in the consumer’s electricity
+bill, costing approximately£4/year. The VHH Real Time Display is expected to save homeowners an average of 10% in
+energy bills through behavioural changes, eco product and efficiency recommendations. With advances in distrubuted
+ledger technology, we are expecting individual blockchain nodes to decrease their power requirements for running the
+blockchain over time.
+
+4.6 Additional VTP applications
+The previous sections have illustrated the value of the VTP for peer-to-peer trading; however, applications can be more
+diverse, with other stakeholders participating in the system. For example, electric vehicles charging providers may be able
+to act as aggregators, and distribution network operators can purchase bespoke demand response services from the VTP.
+The VTP has been designed with the intention of providing a flexible and multi-purpose platform, which Verv believes will
+provide a future-proof solution to the forthcoming changes to the energy sector.
+Electric Vehicle (EV) charging
+By 2025, industry experts estimate that one in every six cars will be an EV.54 With such rapid adoption, their integration with
+the electricity grid is forecast to become increasingly important. First, the grid will need to accommodate the additional
+demand for electricity required to charge EVs. Second, EV batteries can provide critical balancing services to support
+distribution system operators (DSOs).
+The development of a vehicle-to-grid (V2G) network could enable energy stored in EV batteries to support the electricity
+network when demand is high, and for EV batteries to be recharged during times of low demand. Bidirectional energy flows
+from EVs to the grid could provide additional grid stability and greater system resilience. V2G networks are being tested
+globally, with projects underway in countries from Germany and Denmark, to the USA.55 In the UK, the government has
+committed to providing almost £30m of funding to develop V2G technologies,56 and UK Power Networks is currently running
+four projects to test the viability of V2G technologies.57
+
+The Evolution of Energy
+
+29
+
+The management of EV charging infrastructure is expected to be critical. It is expected that charging providers will need to
+co-ordinate a large network of charging nodes, which may be owned by a number of independent actors.58 EV owners may
+be able to set a range of parameters to ensure their requirements are met, for example:
+• Battery has a minimum level of charge (e.g. to complete a specific trip from work to home)
+• Battery only charges during certain time periods (e.g. during off-peak hours between 1am and 5am)
+• Battery only charges at a slower rate (to spread draw from grid over a longer time period)
+• Battery charges in specific locations that have lowest grid demand
+Verv plans to provide valuable support in:
+•P
+ roviding a central marketplace and platform for charging providers, prosumers, EV owners and DSOs to co-ordinate
+prices, demand, capacity, and demand response (DR) services
+•M
+ onitoring batteries state of charge: providing EV owners with a view of their current battery state / vehicle range
+•O
+ ptimising battery charging/discharging: balancing the requirements of an EV owner with optimum charging patterns
+for the EV charge provider
+•S
+ treamlining the transaction process: providing a low-cost, efficient, and automated means of settling transactions for
+each charging/discharging event
+Charging providers may be able to become an aggregator and EV owners may be able to pre-purchase energy on the VTP
+platform and trade energy throughout the day, optimising for prices, grid demand, and their specified requirements. They
+may also be rewarded for parking their cars in areas of excess demand or excess supply, to provide additional local battery
+capacity – similar to Uber’s use of surge charging in peak geographical areas.
+DNO / DSO services
+Distribution network operators (DNOs) are responsible for maintaining distribution infrastructure. With increasing local
+renewable electricity generation needing proactive management, their role has expanded to include systems operations
+through new digital toolkits that communicate between the network’s main nodes.59
+Distribution system operators (DSO) provide a medium for grid participants to be financially compensated when supporting
+a balanced network. For example, 1) Incentivise reduced consumption (i.e. ensuring key electrical appliances are turned off
+at peak demand points throughout the day), 2) incentivise micro renewables actively feeding back to the grid, 3) incentivise
+consumers to place increased draw on the grid through turning on their high draw electrical appliances, 4) incentivise those
+with storage systems to manage their charge/discharge in consideration of the wider network.    
+With the VHH’s AI capabilities and ability to provide ultra high-resolution, real-time data, Verv is hoping to be able to provide
+DSOs with real-time updates and forecasts for electricity demand, microgeneration, and storage utilization. Detailed electricity
+data and accurate consumption and generation forecasts can help DSOs reduce operational costs by enabling them to
+utilise lower cost demand response capabilities. Through the VTP platform, DSOs could financially incentivise householders
+to turn on/off key household appliances and storage facilities throughout the day, to ensure the network is balanced based
+on its current generation activity. As smart plugs and smart appliances become more common in households, automated
+domestic demand response is anticipated to be a powerful service that can significantly support DSOs in managing network
+constraints, avoiding network reinforcements, and balancing the grid.
+Carbon monitoring
+The VTP is being designed to track every kWh of electricity traded on its platform, from point of generation to point of
+consumption. With its electricity monitoring, verification process, and immutable blockchain ledger, Verv should be able to
+provide monitoring and reporting services for organisations’ electricity consumption, renewable generation, and EV fleet
+usage.
+The robust supply of information accessible to anyone within the commercial VTP framework can potentially support carbon
+traders and provide organisations looking to offset their carbon with a verified source that should stand up to regulatory
+scrutiny. The reporting process may also provide automated carbon emissions reporting for compliance with government
+environmental schemes, such as ESOS (in the UK), and ISO 14000.
+
+The Evolution of Energy
+
+30
+
+Microgrids
+Microgrids are localized groups of distributed energy sources and loads that typically connect to and operate in parallel with
+incumbent centralized grids (macrogrids). Traditionally, they have been co-ordinated according to geography or function
+(e.g., a university campus, residential neighbourhood). Fully disconnected microgrids are referred to as islanded.
+Microgrids are expected to play an increasingly important role in government energy policy,60 due to their ability to provide
+energy resilience and mitigate against a community’s vulnerability to power outages, ageing grid infrastructure, and exposure
+to energy imports. Investments in microgrids are expected to grow at a CAGR of 12% (2016-2022)61, and with 1.1 billion
+people lacking access to electricity globally, estimates suggest 50 to 60% of additional generation required will be supplied
+by microgrids.62
+However, in order for microgrids to be globally scaled and considered a reliable backup to centralised grids, the issue of
+autonomous voltage and frequency control must be overcome.63 This occurs when the microgrid becomes unbalanced
+(i.e. power not being generated at the same rate as demand), and the system’s voltage frequency deviates its target value.
+Communities will require dedicated microgrid controllers to ensure voltage and frequency control is managed.
+Verv believes the VTP and VHH monitoring can help to manage autonomous balancing, providing critical services to support
+the roll-out of microgrids across the world.
+Tokenisation and monetisation of data
+Verv believes the combination the VTP and the VHH will generate extensive amounts of data which should be of significant
+value to many stakeholders, for example, utility companies, energy traders, consumer companies (e.g. Amazon, Samsung),
+and distribution and transmission network operators.
+As the VTP platform develops, energy consumption data and energy transaction data could be tokenised and integrated into
+the VTP. With the VHH’s ability to disaggregate energy use by appliance, the VTP will have access to extensive datasets on
+appliance use within households, for example, appliance performance, reliability, and patterns of usage.
+Currently, appliance manufacturers sell electrical appliances to retailers and have limited visibility on how the appliances
+are used in their customers’ homes, but the VHH could provide manufacturers with great insight into appliance use and
+performance beyond the factory door.
+Furthermore, detailed patterns of appliance-level energy consumption can provide distribution and transmission network
+operators with more accurate predictions of electricity requirements, and therefore optimise electricity generation and
+storage accordingly. It could further enable them to segment customers according to appliance use patterns and, for
+example, encourage energy use behaviour changes that support the grid balancing requirements.
+Verv believes that energy use data and energy trading data have significant value that is currently under utilised and under
+recognised. The combination of the VTP and the VHH provides the ability to unlock this value, and the tokenisation of data
+allows for easy access to these datasets.
+Households who are willing to share their anonymised data, and individuals and organisations who provide data cleaning
+and processing services could be rewarded in VLUX tokens; organisations may purchase energy use data or information
+using VLUX tokens. Verv intends to fully integrate the VLUX platform with energy data. Companies and organisations who
+wish to purchase data will be required to stake VLUX tokens for access to the platform and use VLUX tokens to purchase
+data.
+All data has been designed to be anonymised and Verv will take the utmost care to ensure that all data protection laws and
+regulations are adhered to.
+
+The Evolution of Energy
+
+31
+
+5. VTP Business Model
+If the ITO is successfully closed, Verv intends to develop a freemium business model, which would provide all users the
+option of accessing the platform for free, with the option of purchasing additional features, services, or capabilities. In the
+long term, we estimate costs will be c.1% of total transaction value.
+
+5.1 Value Propositions
+Verv believes the VTP will have many applications and benefits for a range of stakeholders within the energy ecosystem.
+The benefits of peer-to-peer trading combined with Verv’s high resolution electricity data extends beyond households and
+prosumers, to network system operators and electricity suppliers.
+A summary of key stakeholders and how Verv believe they will benefit from the VTP is shown below:
+
+Stakeholders
+Households
+– consumers
+
+Benefit
+• Bill savings: Verv estimates consumers will save approximately £50 per annum from existing
+electricity bills (exc. cost of hardware device)
+• Incentivise local generation of energy
+
+Households
+/ SMEs
+– prosumers
+
+• Additional revenue generation: Verv estimates owners of 4kW solar microgeneration units should
+be able to earn an additional £40-70 p.a.
+• Reduces payback time: better monetisation of surplus kWhs over the feed-in tariff
+
+Small scale
+generators
+
+• Additional revenue generation: revenues are expected to be higher than those received on the
+wholesale electricity market
+• Reduces payback time: improved profits are expected over wholesale market prices
+
+Community
+groups
+
+•
+Promotes social cohesion: prosumers and consumers can support community programmes,
+schools, community buildings etc. by selling or buying electricity from community groups
+• Improves community electricity resilience: encourages installation of community microgeneration
+and storage, providing emergency electricity provision during blackouts
+
+Retail energy
+suppliers
+
+• Reduces bad debts: as the VTP is token-based and users purchase tokens in advance of use, bad
+debts are expected to be reduced for trades on the platform
+• Real-time billing reconciliation: blockchain transactions are expected to be verified on an on-going
+basis, helping to remove delays between electricity consumption and billing
+• De-centralised platform for local, sustainable electricity: VTP provides a de-centralised source for
+purchasing electricity with verified provenance
+
+DSOs / DNOs
+/ System
+Operators
+
+• Condition monitoring and predictive maintenance: Verv’s high frequency sampling of electricity
+generates advanced power quality information (e.g. information on voltage frequency / harmonics),
+which can be used by network and system operators to pre-empt potential problems before they occur
+• Capacity, balancing and DSR services: VTP is expected to function as a central platform of supply
+and capacity which can provide additional capacity, network balancing and demand response (DR) services
+
+The Evolution of Energy
+
+32
+
+Government /
+Regulators
+
+• Meeting decarbonisation targets: improved incentives for renewables generation will encourage
+installation, helping to meet decarbonisation targets
+•
+Increased consumer choice: greater competition in what may be considered a traditionally
+concentrated market in many countries, resulting in more choice and better outcomes for consumers
+
+Additional
+use cases
+
+• EV charging payment solution: EV charging providers should be able to use the VTP to make
+payments between charging infrastructure providers, electricity generators, and EV users
+• Microgrid balancing and monitoring services
+• Carbon accounting services: with a comprehensive view of the provenance of electricity and kWh traded,
+the VTP should be able to automate carbon reporting and accounting for companies and organisations
+
+5.2 Customer Segments and Distribution Channels
+Verv believes early adopters are most likely to be:
+1) Those who will benefit most economically from VTP utilisation (i.e. users with microgeneration or energy storage)
+2) Sustainable / eco-conscious communities with existing microgeneration
+3) Low-income / price-sensitive households
+4) Early-adopters of cutting-edge tech products
+The roll-out for VHH and VTP is expected to be co-ordinated such that VHH customers can further reduce energy costs by
+sourcing competitively-priced and sustainable electricity on the VTP, while the VTP will benefit from a growing VHH user base
+and more participants on the platform.
+We are in the process of developing key relationships across our core distribution channels, and which should enable rapid
+access to a large group of users, who are most likely to benefit or take interest in the VTP.
+Early adopter
+clusters
+1) Users who benefit most
+economically from VTP utilisation
+
+Anticipated benefit of
+Verv product offering
+• VTP should increase income from
+renewable and storage assets
+• VTP should reduce payback
+time for further investments
+
+2) Sustainable / eco-conscious
+communities with existing
+microgeneration
+
+• VTP should increase income from
+microgeneration sources and
+improve the business case for
+installing more renewable and
+storage capacity
+
+Planned VHH
+distribution channels
+• Battery and home storage
+solution providers (e.g. Tesla’s
+Powerwall, Powervault)
+• Solar panel installers (e.g. SolarCity)
+• Community groups
+(e.g. Repowering London)
+• Community-based organisations
+(e.g. schools and hospitals)
+
+• VHH should help community
+households use less electricity
+and save money
+3) Price-sensitive or low-income
+households and small businesses
+
+• VHH should help households
+consume less electricity
+• VTP should help households
+source the cheapest electricity
+
+4) Tech early-adopters
+
+The Evolution of Energy
+
+• VHH and VTP should provide
+industry-leading cutting edge
+technology in NILM, data
+disaggregation, blockchain & AI
+
+• Insurance companies
+• Utility companies / energy suppliers
+(e.g. British Gas, Good Energy, Ecotricity)
+• Community groups
+• Direct to customers (B2C) via
+online retailers (e.g. Tesco Direct
+and Amazon) and in-store sales
+(e.g. electronic retailers)
+
+33
+
+Progress in the UK
+Building on the successful launch of the VHH, Verv has already established relationships with retailers and key distribution
+channels. In particular:
+• Utility companies: Verv has received funding from Centrica (owners of British Gas) and is in the ‘proof of
+concept’ trial stage with a number of electricity retailers looking to provide their customers with a VHH
+• Insurance companies: Verv is in advanced discussions with a number of international insurance companies
+looking to provide their customers with a VHH. With the VHH’s ability to disaggregate electricity use, it could help
+households identify when electrical appliances have been left on or are malfunctioning, preventing fires before
+they start
+• Retailers: VHH is already available for sale on Amazon and Tesco Direct’s online stores
+• Battery providers: Verv has partnered with Powervault, who will provide batteries for a peer-to-peer energy
+trading trial in Hackney, London
+• Community groups: Verv is working in collaboration with Repowering London to trial a peer-to-peer energy
+trading trial in a community housing estate in Hackney, London
+We anticipate a growing market for peer-to-peer energy trading, as the number of renewable domestic installations in the
+UK continues to rise: currently there are over 800,000 properties with PV panels in the UK, and this is expected to continue
+growing at 30% year on year.64
+Beyond the early adopter phase, Verv will focus on developing partnerships with providers of essential householder services:
+internet and phone providers (Virgin Media, Sky), water companies, local councils, and major utilities. At this point, Verv plans
+to offer channel partners a white-labelled app.
+Verv is actively providing thought leadership to determine the appropriate level of regulation for peer-to-peer energy trading
+in the UK, and has been selected to participate in the Ofgem Sandbox, a programme launched to investigate the effects
+of peer-to-peer trading on the energy industry.
+International expansion
+Following a successful roll-out of VTP
+in the UK, Verv plans to expand its
+footprint internationally. Globally, there
+is significant potential for peer-to-peer
+energy trading, with an existing 1.3m
+household solar installations in the US,
+1.5m in Australia, and 1.7m in Germany.65
+The Verv hub should be compatible
+with most of the geographies displayed
+in dark blue through changing the plug
+for the mains socket. By the end of
+Q4 2018, Verv has plans to launch a
+modified system suitable for rollout in
+the USA and Canada.
+Peer-to-peer energy trading will have
+to be adapted to comply with countryspecific regulations and fee structures.
+From a legal standpoint, Texas,
+Germany and Australia are some of the
+major markets currently de-regulating
+their energy industries to allow peerto-peer trading.
+
+The Evolution of Energy
+
+220-240V/50Hz
+
+100-127V/60Hz
+
+220-240V/60Hz
+
+100-127V/50Hz
+(available soon)
+
+34
+
+5.4 Competition
+Many blockchain energy trading platforms have launched in recent months (e.g. WePower, Grid+, PowerLedger),
+proposing similar platforms to enable peer-to-peer energy trading. Verv believe they have a competitive edge over
+existing competition for the following reasons:
+• Existing patented VHH system capable of high resolution energy data collection, with integrated in-box data processing
+capabilities. This is expected to reduce data upload requirements, speeding up transfer to cloud while sampling data at
+high frequencies
+• Existing distribution channels and key partnerships for the expansion of VHH and VTP user base
+• Existing capabilities in energy demand and generation forecasting using machine learning algorithms
+• Existing datasets on household energy use patterns, solar generation, and battery activity
+• Existing patented algorithms for energy data disaggregation, providing appliance-level information on energy use
+• Integrated deep learning and AI capabilities, utilising ultra-high resolution data, that can enable better energy use
+prediction, and therefore optimised energy trading decisions
+Based on information available in competitors’ published whitepapers, Verv believe they are the only platform with an
+existing, commercially-developed, stand-alone hardware product that has an in-built high-speed data processing and
+trading capabilities, and associated machine learning AI which is ready for immediate deployment.66 Verv believes this
+provides a critical first-mover advantage which will enable accelerated product development and customer acquisition.
+
+Company
+
+Verv
+
+LO3 / Brooklyn
+Microgrid
+
+PowerLedger
+
+Grid+
+
+WePower
+
+Irene
+
+Product
+offering
+
+Peer-to-peer
+energy trading
+platform
+
+Peer-to-peer
+energy trading
+in microgrid
+
+Peer-to-peer
+energy trading
+platform
+
+Functions as a
+utility company
+/ energy retailer
+
+Functions as a
+utility company
+/ energy retailer
+
+Functions as a
+utility company /
+energy retailer
+
+Hardware
+requirements
+
+VHH available
+for sale
+Integration to
+smart meters
+optional
+
+Custom build
+hardware used
+in Brooklyn;
+Developing
+TAG-e hardware
+to enable
+trading
+
+Requires
+smart meter
+integration
+
+Developing
+hardware:
+a “smart
+energy agent”
+
+Requires
+smart meter
+integration
+
+Requires
+smart meter
+integration
+
+Integrated to
+core product
+
+None explicit
+
+N/A
+
+AI optimisation
+planned to
+start 2019 Q4
+onwards
+
+Longer term
+plans for AI/
+ML integration
+(“Storm” period)
+
+Machine
+learning used for
+weather-related
+forecasting
+
+UK initially,
+followed by USA
+and Germany
+
+USA
+
+Australia
+
+USA
+
+Lithuania
+
+UK/France
+initially
+
+(Long-term)
+Commercial
+focus
+
+Platform
+
+Platform
+
+P2P trading
+
+Platform
+
+Financing
+platform
+
+Utility
+provider
+
+Public
+blockchain
+platform
+
+Ethereum
+
+Ethereum
+
+Ethereum
+
+Ethereum
+
+Ethereum
+
+Stellar
+
+VLUX
+
+XRG
+
+POWR, Sparks
+
+BOLT, GRID
+
+WPR
+
+Tellus
+
+-
+
+n/a*
+
+A$34m
+
+US$40m
+
+US$40m
+
+n/a*
+
+Machine
+Learning / AI
+capabilities
+
+Geographical
+focus
+
+Tokens
+ICO raised
+
+Strong focus on
+data collection
+
+*at time of writing
+
+The Evolution of Energy
+
+35
+
+5.5 VTP Technical Development Roadmap and Commercial Plans
+Development of the VTP started in late 2016, with 2017 seeing rapid expansion of research and development efforts with
+the collection and analysis of data from a number of test sites. The VTP is currently in active development for roll out at the
+first UK blockchain peer-to-peer trading trial in Hackney, London in March 2018.
+An outline of Verv’s technical roadmap and key targets are provided below:
+
+Q1 2018
+
+Trial Launch
+Launch of first blockchain peer-to-peer energy trading held in Hackney, London, UK,
+in partnership with Re-Powering London.
+Installation of hardware and recruitment of participants at trial site.
+
+Public Blockchain
+Transactions will be visible on the Ethereum public Testnet (Ropsten).
+
+Q2 2018
+
+Technology Development
+More advanced electrical generation and consumption prediction algorithms introduced
+into live system.
+Verv’s combined three channel CAD units deployed.
+
+Blockchain
+Transition to a private permissioned blockchain, minimizing carbon footprint of the
+blockchain solution.
+
+Q3 2018
+
+Engaging Early Adopters
+Planned roll out of energy trading platform to early adopters for trial.
+
+Scheduled Beta Test of Macro Blockchain
+A blockchain of blockchains containing digests of transactions is expected to be rolled out to
+our trial sites.
+
+Q4 2018
+
+Product Development
+Planned automatic integration of the VTP into next generation of Verv units, available for
+public roll out in 2019.
+Planned international system established.
+
+2019
+
+Full Scale International Rollout
+Foundation fully operational, International rollout.
+Inclusion of next generation of Apps and third party services.
+
+Verv is planning on using the funds over a 3 year period to develop all the features, functionality and current ideas of the platform.
+
+The Evolution of Energy
+
+36
+
+2018 – Core targets
+• Sell 12,000 VHHs which can receive automatic firmware updates to begin trading on the VTP
+• Extension of Hackney trial to include more households
+• Roll-out of three phase solution, which is compatible with European electrical system
+• Launch of VHH solution compatible with USA electrical system
+• Launch energy bill minimisation API, with automatic tariff switching and/or VTP trading
+• Establish first international commercial partners
+• Develop control system for individual appliances
+
+2019 – Core targets
+• Extend trading platform to accommodate energy trading between 50,000 homes
+• Develop software which enables automated control of household electrical appliances, to minimise energy costs
+• Develop demand-side response product offering
+
+5.6 Simulated Energy Trading Across 60 Homes (Spring 2017)
+Verv’s first blockchain project was funded by the Energy Entrepreneur’s Fund from BEIS (UK Government Department for
+Business, Energy and Industrial Strategy) to extend the capability of the Verv’s domestic hub with peer-to-peer trading
+functionality.
+The project is focused on applying machine learning to the VHH data feeds, to build up a detailed real-time picture of
+household electrical activity, and thus pinpoint the sources of generation and consumption. When this data is combined
+with a blockchain-based trading platform, it is expected to enable electricity to be securely traded in real time at kWh
+granularity.
+In this project we have built a full version of the alpha VTP trading algorithm and have been simulating it across 60 homes
+with onsite storage and solar generation. Our simulations allow us to determine potential trading levels, system economics
+and algorithm efficacy. Learnings from this project are being applied to our pilot demonstration project in Hackney (see
+below) to refine our primary blockchain algorithm.
+
+The Evolution of Energy
+
+37
+
+5.7 Verv’s Hackney Project
+In November 2017, Verv created the UK’s first energy trading community at Hackney’s Banister House estate. The initial
+field-trial, delivered in collaboration with Repowering London will be the first-time energy has been legally traded in the UK
+through a blockchain-based energy trading solution.
+Verv (VHH with additional blockchain functionality) are being installed in 40 participating flats to allow community residents
+to share lower cost renewable energy between one another at a significantly reduced rate, as well as benefit from the
+functionality of Verv’s home energy assistant (providing real-time cost updates for key appliances, safety notifications if
+appliances are left on, and alerts if white goods are deteriorating).
+
+Development of Verv’s blockchain-based community energy trading further supports the pioneering work of Banister House
+Solar - the UK’s largest community energy scheme for social housing. Prior to Verv, with the support of Hackney Council,
+Banister House Solar installed PV systems onto 17 blocks that make up the housing complex.
+The trial will also install communal battery storage provided by Verv’s partner Powervault. The batteries enable storage of
+solar energy for later use, or to trade between flats.
+This project was started by a £100k government grant from Innovate UK, who have encouraged research on blockchain within
+Ofgem’s regulatory sandbox. This project has also been supported by UCL’s Energy Institute’s LoLo CDT in Energy Demand.67
+
+The Evolution of Energy
+
+38
+
+6.0 Milestones, Awards, & Achievements
+Green Running (*brand name Verv) was founded in 2009 by Peter Davies. The initial focus was on reducing energy
+consumption within the commercial market; supporting hotels, restaurants and manufacturing plants to lower their energy
+bills, encourage behavioural change among their employees, and achieve sustainability targets.
+At this time, smart meters and half-hourly meters had begun to penetrate the domestic market. However, the information
+they provided was considered insufficient for encouraging long-term engagement and behavioural change.  
+With over a decade of experience in high-frequency data acquisition (while building engineering test and measurement
+consulting company, Austin Consultants), Peter and his specialist team were able to develop a non-intrusive solution for
+sampling electricity meter data at extremely high frequencies. The data resolution their technology generated enabled the
+team to create algorithms capable of identifying the unique energy signatures for key domestic electrical goods as well as
+provide their corresponding usage information in real-time.
+Having patented this technology, a range of commercial energy monitoring products were developed and sold to Energy
+Managers and Facilities Managers within the hospitality and manufacturing sectors (often to support their ISO: 27001
+Environmental Policy thanks to its real-time feedback on electricity usage).
+For their work in this sector, Green Running won a project with Scottish Power Networks and Scottish & Southern Power
+Networks’ through an Energy Innovation Grant to build out their capabilities for substation and grid monitoring. The outcome
+of this project was a successful understanding of the issues facing the DNOs from a power quality and blackout perspective,
+caused by individual large appliances. In 2014, success in these verticals led Green Running to becoming a finalist for ‘Best
+Smart Grid Innovation’ as well as being nominated for the ‘Rising Star Award’ in the Energy Awards.
+The results of this project, combined with a domestic smart home product plan helped to attract the interest of many of the
+UK’s major utility companies and result in Centrica (owners of British Gas) providing seed funding in July 2015 to develop a
+smart home energy assistant product for the domestic market.
+
+2015 (second half)
+• Received seed funding from Ignite (the social Impact arm of Centrica PLC, parent company of British Gas).
+• The Verv smart home product is featured as a showcase in the BT IoT lab.
+2016
+• Peter Davies (CEO) won Innovator of the Year in November 2016 at the Business Green Awards, and was named one
+of the Top 50 Entrepreneurs in the last 15 years by SETSquared, with an award made in the House of Commons.
+• Smart home product won Best Product Demonstration at the 2016 European conference on Non-Intrusive Load
+Monitoring (NILM) in London.
+• Raised an additional angel round from:
+
+		
+
+- Ian Marchant (ex-CEO Scottish & Southern Electricity)
+- Charlie Crossley Cooke (Founder of Opus Energy which sold for £326 million in 2016)
+- Jeremy Oppenheim (Ex McKinsey Partner and Co-founder of VC fund SystemIQ)
+- AU Capital Partners
+
+2017
+• Developed sales channels through sales to energy companies, British Gas, EDF, Ecotricity, Good Energy,
+and Scottish Power Energy Networks.
+• Developed sales in the insurance market, counting Allianz among Verv customers.
+• Developed consumer sales channel to BT, Tesco Direct, and Amazon.
+• Four patents on Condition Monitoring, a Smart Plug and Product Recall functionality.
+
+The Evolution of Energy
+
+39
+
+2017
+Verv Blockchain
+• Filed a patent for P2P blockchain in July 2017.
+• One of only four companies to receive a £150k grant from UK Government Department for Business, Energy and
+Industrial Strategy ‘Energy Entrepreneurs’ fund to simulate Verv’s blockchain-based peer-to-peer energy trading
+solution across the UK.
+• Set up an ongoing monitoring of 60 homes each containing solar generation and local battery storage. Invited to
+present multiple times to Ofgem as part of a select panel of the UK’s major industry blockchain energy players.
+• Used the VHH to conduct in-depth analysis on leading key domestic battery manufacturers (Tesla, Sonnen,
+Powervault) to determine which were most suitable for peer-to-peer energy trading.
+• Implementation of what is expected to be the UK’s first blockchain peer-to-peer energy trading community on
+London social housing. The project, delivered in collaboration with Repowering London, is expected to be the first
+time energy is traded in the UK through the blockchain-based peer-to-peer energy trading solution – Verv 2.0,
+providing cheaper energy to the residents at Hackney’s Banister House Solar. This project has been shortlisted
+for participation in Ofgem’s Sandbox programme.
+
+2017
+Verv AI
+• One of a few companies in the UK selected to be on Google Campus’ Launchpad, Google’s global startup program,
+as well as Amazon’s Launchpad.
+• Voted one of the top 50 AI companies by Silicon Valley media company CIO Story.
+• Maria McKavanagh (COO) was nominated as one of the most influential women in UK Tech by Computer Weekly.
+• Raised £1.1 million in an equity crowdfunding round on CrowdCube, bringing on board over 1000 investors under a
+nominee structure.
+• Received the first ever Innovation award from Electrical Safety First at their 7th annual product safety conference.
+• Won 3 Business Green Awards:
+		- A
+ pp of the year: For the way in which Verv taps into big data in the home and present it to the consumer in a way
+that’s simple and easy to understand.
+		 - F
+ uture city technology of the year: For the peer-to-peer energy trading solution developed for the smart home
+hub, Verv 2.0, in order to increase access to low carbon energy and reduce energy costs.
+		 - T
+ echnology of the year: The highest overall award of the evening which recognised Verv’s game-changing technology.
+• Awarded an Innovate UK grant (with sister consulting company Austin Consultants) to develop accurate and costeffective power generation forecast data using satellite image processing and machine learning techniques.
+
+The Evolution of Energy
+
+40
+
+7.0 - Team, Advisors and Project Partners
+7.1. Team
+Leadership
+ eter Davies - CEO
+P
+A serial entrepreneur with an engineering background and a degree in computers, electronics and communications
+engineering. Peter was the founder of Austin Consultants, the UK’s highest certified LabVIEW Consultancy specialising
+in automated measurement, analysis and control systems for the likes of Rolls-Royce and Mercedes Benz F1. Peter won
+Innovator of the Year at the 2016 Business Green Technology Awards.
+ onrad Spiteri - CTO
+C
+Conrad has spent 15 years perfecting the tech product development process and carries an impressive portfolio of products
+and patents, believed to have reached a user base in the millions (physical unit sales and app downloads). He has a Masters‘
+in Robotics, and is finalising his PhD in Planetary Robotic Vision Processing for Terrain Assessment and a degree in Industrial
+Electronics. Prior to Verv, Conrad was the Technical Director at Y-CAM Solutions.
+Bobby Watkins - CCO
+Bobby brings with him 20+ years of industry experience having led the commercial strategy across global brands such as
+Acer (as Managing Director), Sony (as General Manager), and most recently LycaMobile in a global role.
+Steve Foster - CFO
+Steve has over 20 years’ experience in senior financial roles, mainly in the energy sector.  He has worked for E.On UK, the
+private-equity backed business Welsh Power Group and from 2011 to 2017 was the Finance Director of the B2B energy
+supply business Opus Energy Ltd.
+Maria McKavanagh - COO
+Most recently nominated by Computer Weekly as one of the top 50 Most Influential Women in Tech, Maria was formerly a
+Field Sales Engineer at National Instruments and holds an MEng degree in Electronic Systems Engineering.
+
+Key Technical Personnel
+Andrei Baloiu - Lead Blockchain Developer (Solidity)
+Andy is the lead blockchain developer for the VTP, bridging the gap between blockchain and IoT. He has worked on blockchain
+projects within the Innovation Centre of Excellence at RS Components and has won several blockchain hackathons. Andy
+has more than 5 years’ experience in full-stack development and holds a BSc in Electrical Machines Engineering and a MA
+in Design.
+Jonathan Dennis – Team Lead Disaggregation
+Jon is the Disaggregation Team Leader on the Machine Learning team, developing the data processing and learning algorithms
+for the VHH. He has been with Verv for over 2 years, with 5+ years’ industry experience in developing machine learning
+solutions for real world problems. He previously worked at the Institute for Infocomm Research (Singapore) developing
+robust audio and speech recognition algorithms. It was in Singapore that he completed his PhD at Nanyang Technological
+University making advances in robust audio recognition. He also holds a first class MEng degree in Engineering Science from
+the University of Oxford.
+Lionel Ward – Deep Learning Specialist
+Lionel is a Deep Learning Specialist in Verv’s Machine Learning team, applying cutting edge techniques from AI to
+solve problems in energy monitoring. Lionel has 2+ years industry experience, and Master’s degrees in Machine
+Learning and Electronic & Electrical Engineering, both from UCL. Lionel is proficient in Japanese, having completed
+an exchange year in Japan.
+Matt Mottram – Team Lead Machine Learning
+Matt is a Team Lead in Machine Learning, working on appliance disaggregation and condition monitoring. Prior to joining
+Verv in 2016, Matt was a postdoctoral research scientist, having received a PhD in high energy physics from UCL.
+
+The Evolution of Energy
+
+41
+
+Yi Jean Chow – Blockchain Product Manager
+Yi Jean is a Product Manager on the Blockchain team, developing the commercial strategy for the VTP product. She has 2+
+years of experience in strategy consulting and operations consulting, and previously worked as an energy analyst, conducting
+building energy efficiency audits. She holds a BA in Chemistry and Physics from Harvard University, and an MSc in Economics
+and Policy of Energy and the Environment from UCL.
+Gavriel Landau – Blockchain Project Manager
+Gavriel is a Project Manager within the team, managing a spectrum of  projects, including the trial of our peer-to-peer trading
+platform within a social housing estate in Hackney. He has 4+ years’ experience as a consultant for Accenture, working in
+commodities trading and risk management. Gavriel holds a BSc in Business and Management from Aston University.
+Anas Almharat – Blockchain Data Scientist
+Anas is a data scientist on the blockchain team, developing energy consumption prediction algorithms using deep learning.
+Anas’ scope of expertise spans across different areas of artificial intelligence with a focus on behaviour accommodation
+and reasoning under uncertainty. Before joining Verv, he was the chief data scientist at CypherAPP, developing machine
+learning solutions to account for mental health well-being for young people in the UK. Anas holds a PhD in probabilistic
+graphical modelling.
+Sam Fiddis – Blockchain Developer
+Sam is a blockchain developer, working on the synchronization of energy discharge with token trading on the Ethereum
+Blockchain. He has a wide range of experience including accounting and HVAC engineering. He holds a double degree in
+Mechanical Engineering and Science (major in Mathematics and Physics) from Monash University and an MSc in Computer
+Science from Imperial College London, where he helped to develop a proof of concept Ethereum-based student funding
+DAO (Decentralized Autonomous Organization).
+
+7.2 Advisors
+James Cameron – Chairman
+James has been Chairman of the Overseas Development Institute; a member of General Electrics’s (GE) Ecomagination
+board, and Chairman of Agrica; GSCM; and ETIndex. Previously he co-founded and chaired Climate Change Capital
+(CCC), which became a thriving merchant banking and investment business employing 150 people with $1.5 billion
+under management. He was a member of the UK Prime Minister’s Business Advisory Group during the coalition government
+and named Leader of the Year at the 2013 BusinessGreen Leader awards.
+Ewald Hesse
+Ewald Hesse leads the Grid Singularity venture. He has extensive experience in the energy sector and acute interest
+in distributed business models. He served as regional director at Andritz Hydro and is the Vice President of the Energy
+Web Foundation.
+Francis Griffiths – Director
+Francis is VP of Sales and Marketing Worldwide at National Instruments, a multinational company with global operations
+and revenues in excess of $1.2bn. He is responsible for global sales, support, marketing and business operations for the
+Americas, Europe and Asia-PAC. He is also a Board Member at Cardiff University.
+
+Academic
+Professor David Shipworth
+Professor of Energy and the Built Environment at UCL Energy institute, works falls into two related areas: Demand side
+management and occupant thermal comfort in buildings.
+Professor Furong Li
+Professor Furong Li is a lecturer at the University of Bath, secretary of the IEEE Power System Economics Committee and
+co-chair of the Prize Paper Nomination Committee for the Power System Economics division of IEEE.
+
+The Evolution of Energy
+
+42
+
+Notable Equity Investors
+Charlie Crossley Cooke
+Chief Executive & Owner of Opus Energy Group Ltd. (until being acquired by Drax for £340m in 2017). Mr. Crossley Cooke was
+responsible for the growth, strategic direction and operational management of the group. He has over 10 years’ experience
+in the energy trading and retail sectors.
+Ian Marchant
+Chief Executive Officer of Scottish and Southern Energy (SSE) from 2002 until 2013.
+Jeremy Oppenheim
+Ex-Senior Partner at McKinsey, where he founded their Sustainability and Resource productivity practice. He is a currently
+at Systemiq VC investing in sustainability oriented ventures.
+
+7.3 Project Partners
+Blockchain Partners
+Blockchain Reserve
+Blockchain Reserve’s mission is to set the gold standard for legal, ethical token issuances. With a reputation for working with
+the very best companies looking to run token sales, predominantly with companies that have existing products, revenues,
+institutional backers and a genuine need for a token.
+ZKlabs
+Zero Knowledge Labs performs auditing, smart contract development and crypto R&D for Ethereum-related projects.
+
+The Evolution of Energy
+
+43
+
+8.0 - VLUX Token Launch
+To establish a blockchain trading platform, Verv will be holding an Initial Token
+Offering (ITO) to sell VLUX tokens for use on the platform. Verv believes the
+benefits of holding an ITO are three-fold:
+• Accelerates funding to further develop the platform and attract the best talent
+• Provides us with the independence to build a trading platform that is truly
+consumer and end-user focused
+• Generates global and high-profiled PR and marketing coverage for the Verv
+Trading Platform.
+
+8.1. The Token
+VLUX is a utility token which Verv expects to enable token holders to participate in our energy trading network we are
+developing. It will be an ERC20 token with a limited supply. We have discussed the technical details of the token and our
+trading network in depth in Section 4, however, there are some key aspects worth reiterating here.
+Energy cannot be traded without VLUX
+Tokens are required for every single transaction within our network. Consequently, as our company grows and the number
+of organisations, consumers, prosumers and partners using the network increases, the demand on the token will also
+increase. With a limited token pool, this should put increasing upwards price pressure on each individual token.
+Token burn function
+Every trade within the network will have a margin between the bid and sell prices which is used to cover transaction,
+transmission and tax costs. A majority of trades, after accounting for these costs, will still have a profit margin. This profit will
+be used in part to fund community projects, or exchanged for VLUX to be burned. As the trading platform grows and the
+number of trades taking place increases, the number of VLUX tokens burnt will increase, reducing the limited supply of tokens.
+
+8.2 Token Allocation
+During the token sale event 70% of the total supply of VLUX tokens will be distributed to the public, 10% will be reserved
+for distribution among the first 200,000 VHH units sold, and 20% of the tokens will be kept by the company. Of the 20%
+of tokens kept by the company, 10% will be kept for the Verv float and original contributors, and 10% will be reserved for
+future growth. Tokens will not be able to be used in the network until the full launch of the VTP, currently scheduled for the
+end of 2018.
+
+8.3 Funds Allocation
+The funds raised from the ITO will be used to accelerate
+development of the VTP. 47% will be reserved for
+engineering, software, research and development, to
+continue building our blockchain trading technology
+and patent portfolio. 21% of the funds will be reserved
+for user acquisition, and building on our track record
+of delivering high impact, high value partnerships.
+10% will be used to subsidise the cost of the first
+200,000 VHHs, accelerating adoption of the VTP. 9%
+of the funds will be allocated for ongoing operations / admin,
+with a further 8% used for legal costs. 5% will be reserved
+for contingency.
+
+Engineering, Software, R&D
+
+User Acquisition & Customer Education
+
+Legal Costs
+
+Contingency
+
+The Evolution of Energy
+
+Ongoing Operations & Admin
+
+44
+
+8.4 Our Token Sale Approach
+Verv’s aim is to distribute VLUX to as widespread a group of participants as possible, enabling everyone, regardless of the
+potential size of their contribution, to participate in the benefits of a decentralised energy grid and our trading network.
+Verv aims to conduct our token launch in a manner consistent with absolute best practice, taking into consideration input
+from top advisors, utilising tools of key partners, and implementing the highest security standards.
+It is important to allow key strategic partners to back our token. To assist us in developing a global energy trading network
+and VLUX economy, we will be raising pre-sale funds subject to lock up clauses to support the stability of the token during
+its initial months and years. These token owners will not be able to trade their tokens on the public exchange for a predetermined period of time.
+Verv is looking to raise 70% of the tokens available in the ITO during the private pre-sale, with the remaining tokens sold in
+the public sale. Verv is looking to raise approximately GBP£25m over the entire token sale event, including both the pre-sale
+and the public whitelist.
+
+8.5 The Pre-sale
+Our pre-sale is limited to participants looking to contribute a minimum of GBP£25,000. Verv expects the majority of these
+VLUX tokens will go to long-term strategic partners, with conditions that require VLUX to be locked up and vested for
+considerable periods of time. There will also be a limitation on total number of tokens that can be sold per day per account
+to minimise volatility in prices.
+
+8.6 The Public Whitelist
+The main public sale of VLUX will occur via a whitelist running over three days. Contributors who have registered to the
+whitelist will be guaranteed an allocation in the first 24 hours of the main sale subject to a maximum contribution to ensure
+a fair distribution for registered contributors. By running a whitelist, we are able to distribute token ownership fairly, mitigate
+the risk of network congestion caused by the token sale, and avoid potential human errors that can arise due to a rushed
+purchase of tokens.
+First day whitelist contributors will receive a a token bonus. Any remaining unsold VLUX tokens will be offered to the public
+on the third day.
+
+8.7 The Future Economy
+Verv believes the VLUX token launch will generate a vibrant peer-to-peer energy network, enabling token holders to save
+money on their electricity costs. Verv believes the network utilises surplus energy and reduces energy waste, which is a
+problem prevalent in current energy distribution systems.
+We believe that as we bring new partners and energy providers on board, adding additional energy generating units across
+the grid to our trading network, the energy evolution will accelerate and the value of VLUX increase. Verv believes strategic
+partnerships, including key partnerships we already have in place, will allow our VLUX economy to make step-change
+improvements, as we connect large networks of consumers and prosumers to the VTP.
+Verv will publically announce our intention to sell any tokens prior to sale on a token exchange.
+
+The Evolution of Energy
+
+45
+
+Conclusion
+In response to the challenges facing the existing energy system, Verv believes a peer-to-peer energy trading platform is
+needed to provide a sustainable, democratized and economically efficient electricity grid. Building on the successful roll-out
+of the Verv Home Hub, we are developing a blockchain energy trading platform that will enable users to trade excess energy
+with one another. Verv believes a peer-to-peer system will encourage investment in sustainable energy generation and
+storage, and engage users to improve the resilience, reliability, and affordability of our electricity system.
+This whitepaper outlines the key components of our plans to make the Verv Trading Platform (VTP) a reality, and the
+upcoming initial token offering for the VLUX token will provide supporters with an opportunity to accelerate in the future of
+the energy system. As the platform develops and its user base grows, Verv believes the value of the VLUX token will increase.
+At its core, the VLUX token is required to enable users to trade electricity on the peer-to-peer VTP. The platform has been
+designed to make the trading as simple as possible, with automated trades occurring without user intervention. The VTP
+is expected to optimise trading strategies using Verv’s energy demand and generation predictive algorithms, which should
+enable households to minimise their household energy cost while purchasing electricity from renewable sources.
+Verv believes the VTP will provide the flexibility and capability to integrate many use cases, including electric vehicles
+charging, demand response services, carbon monitoring and reporting, and data and information provision. We believe
+the strength of the VTP will increase with each additional use case, generating greater utility and value for the VLUX token.  
+Central to Verv’s competitive edge is its focus on existing hardware capabilities and integration as a home energy manager
+into consumers and prosumers’ households. Verv believes their existing capabilities in non-intrusive load monitoring,
+energy data disaggregation, machine learning and AI, provide a clear foundation for developing an unparalleled peer-topeer energy trading platform. With support from industry experts in FTSE 100 companies, Verv believes their energy trading
+blockchain is positioned to lead the shift in making energy affordable, decentralised, and decarbonised.
+
+The Evolution of Energy
+
+46
+
+Associated Risks
+Risks associated with energy industry regulation on peer-to-peer trading
+The energy industry is a highly regulated sector, and the success of a peer-to-peer trading solution will require co-operation
+from energy regulators around the world. If governmental authorities do not agree to permit peer-to-peer energy trading,
+the mechanism of the trading platform may have to be modified, requiring corresponding changes to Verv’s execution and
+roll-out plan. While a number of energy regulators appear to be encouraging innovation in peer-to-peer energy trading (for
+example, with the introduction of the Ofgem Sandbox in the UK), if regulation is changed to prohibit peer-to-peer trading in
+the future, the utility of the platform could be significantly reduced.
+The proposed structure of the current peer-to-peer trading business model relies on utilisation of existing grid infrastructure,
+which are owned or managed by distribution and transmission network operators, and distribution and transmission system
+operators. In the event that network and system operators do not permit peer-to-peer trading to occur on their network,
+or charge a prohibitively high fee for use of their network, this would pose significant risk to the economic viability and
+scalability of the peer-to-peer trading model.
+Risks arising from the energy industry and energy market
+The energy industry and by extension the Verv Platform (the “Platform”) is subject to a variety of state and international
+laws and regulations, including those with respect to health and safety, environmental issues, competition, and customer
+due diligence procedures, privacy and data protection, consumer protection, data security, and others. These laws and
+regulations, and the interpretation or application of these laws and regulations, could change. In addition, new laws or
+regulations affecting the Verv Platform could be enacted, which could impact the utility of VLUX in the Verv Platform.
+Additionally, Verv Platform users are subject to or may be adversely affected by industry specific laws and regulations or
+licensing requirements. If any of these parties fails to comply with any of these licensing requirements or other applicable
+laws or regulations, or if such laws and regulations or licensing requirements become more stringent or are otherwise
+expanded, it could adversely impact the Verv Platform and the VLUX, including its functionality to obtain or provide services
+within the Verv Platform.  These regulatory changes in the energy industry could negatively impact on the value of the VLUX
+tokens.
+Risks associated with uncertain regulations and legislative actions in relation to issuing and trading cryptographic tokens
+The regulatory status of cryptographic tokens, blockchain, and distributed ledger technology is unclear or unsettled in many
+jurisdictions. It is difficult to predict how or whether legislatures or regulatory agencies may apply existing regulation or
+implement changes to law and regulation with respect to such technology and its applications, including the Verv Platform
+and VLUX tokens. Regulatory actions could negatively impact the Platform and VLUX tokens in various ways, including
+through a determination that VLUX tokens are a regulated financial product or instrument that attracts registration or
+licensing requirements, or prohibiting their transfer, sale or offering. These potential changes in how VLUX tokens are
+regulated could negatively affect their value.
+Risks associated with uncertain regulations and legislative actions in relation to buying and selling energy with
+cryptographic tokens and blockchain technologies
+It is possible that certain jurisdictions will apply existing regulations on, or introduce new regulations addressing, blockchain
+technology based applications, which may be contrary to the current setup of the Smart Contract System and which may
+result in substantial modifications to the Smart Contract System and/or the Verv Platform, including its termination and the
+loss of VLUX for the user. Additionally, regulation of proposed activities of the Verv Platform is currently uncertain. It is not
+known what regulatory framework the proposed Verv Platform and associated activities will be subject to, the nature and
+obligations that will be imposed on the Company in order to comply with any such regulatory framework or when/if the
+Company will even be able to apply to be regulated, or successfully obtain the necessary licences so that it may lawfully carry
+out its proposed business activities.
+Verv may cease operations in a jurisdiction in the event that regulatory actions, or changes to law or regulation, make it
+illegal to operate in such jurisdiction, or commercially undesirable to obtain the necessary regulatory approval(s) to operate
+in such jurisdiction. The Platform could be impacted by one or more regulatory enquiries or regulatory action, which could
+impede or limit the ability of Verv to continue to develop the Platform. For example, regulations could be introduced to
+prohibit peer-to-peer trading of electricity with decentralised and distributed ledgers, which would prohibit Verv from
+operating in those jurisdictions.
+
+The Evolution of Energy
+
+47
+
+Risks associated with limited track record
+The token and the Platform will be newly created entities without track record in blockchain peer-to-peer trading platforms,
+therefore heavily dependent on the experience of the leadership and advisory group. The token and the platform is therefore
+subject to the business risks and uncertainties associated with new business enterprises, including the risk that the platform
+and token will not achieve their roll out objectives, and that the value of the VLUX token could decline substantially.
+Risks associated with the development of the platform
+The Platform is currently under development and will undergo significant changes before release and over time, including a
+change in direction at Verv’s discretion. Although Verv intends for VLUX tokens and the Platform to follow the specifications
+set forth in the whitepaper and intends to take commercially reasonable steps toward those objectives, Verv may have
+to make changes to the specifications of VLUX tokens or the Platform for any number of legitimate reasons including,
+but not limited to, a change in the design, implementation plans and execution of the implementation of the Platform
+for global release. Moreover, we may not be able to retain full and effective control over how other participants will use
+the Verv Platform, what products or services will be offered through the Verv Platform by third parties, or how third-party
+products and services will utilize VLUX. This could create the risk that the Platform or VLUX tokens, as further developed and
+maintained, may not meet expectations either at the time of purchase of the VLUX token or in the future.
+While Verv will make reasonable efforts to complete the Platform software for release, due to circumstances beyond Verv’s
+control it is possible that a limited release occurs or a functioning operational Platform may not be created at all.
+Risks associated with use of software within the Platform
+Despite Verv’s best efforts to develop and maintain the Platform, it is still possible that the Platform will experience
+malfunctions or otherwise fail to be adequately developed or maintained, which may negatively impact the Verv Platform
+and VLUX, and the potential utility of the VLUX, including the utility of the VLUX token for obtaining services and/or offering
+rewards and/or being used in the manner intended at the time of the Token Sale, causing the value of the VLUX token to fall.
+The Verv Platform relies on software and other technology which may malfunction and/or work in a manner that is not
+intended, resulting in loss of VLUX and/or access to the Verv Platform.
+Risks associated with hardware (Verv Home Hub)
+Verv intends to integrate the Verv Home Hub (VHH) with the Platform, using the VHH to provide measurement, monitoring,
+and control capabilities to facilitate peer-to-peer trading. In the event the hardware malfunctions (for example, through
+inaccurate electricity readings, intentional tampering to change electricity readings, or complete hardware failure), this could
+impact the reliability and credibility of the platform. This may result in lower utilisation of the Platform, and may adversely
+impact the value of the VLUX token. Verv intends to ensure VTP compatibility with other hardware devices (for example,
+smart meters) which should mitigate the adverse impact of VHH malfunctioning.
+Risk of insufficient interest in the platform
+It is possible that the Platform will not be used by a large number of businesses, individuals, and other organisations and
+that there will be limited public interest in the use of VLUX tokens for peer-to-peer energy trading. Such a lack of interest
+could impact the development of the Platform for release.
+A lack of prosumers could result in low supply of electricity through the platform, which may result in higher trading prices.
+A lack of consumers could result in low demand of electricity, which may result in lower trading price. Both scenarios could
+reduce the financial incentive for a group of users to participate on the Platform, and may adversely impact demand for, and
+the value of, VLUX tokens.
+Verv cannot predict the success of its own marketing efforts or the efforts of other third parties. It is possible that, due to
+any number of reasons, including without limitation, the failure of business relationships or marketing strategies, that the
+Verv Platform and all subsequent marketing of the sale of VLUX tokens from Verv, may fail to achieve success, and this could
+damage the value of VLUX tokens.
+Risks associated with changes in market trends
+The Platform is a new product, thus contributing to price volatility that could adversely affect the value of VLUX tokens.
+There are many factors affecting the further development of the cryptographic token industry, as discussed throughout this
+section. These risks can include, but are not limited to, changes in consumer demographics, public tastes and preferences;
+general economic conditions; and the regulatory environment relating to the Platform, VLUX tokens and other tokens.
+Risk associated with changes in market competition
+The proposed value of the VTP is in part reliant on the cost differences between prices received by prosumers in selling
+electricity to the grid, and the prices paid by consumers when purchasing electricity from traditional suppliers. If energy
+
+The Evolution of Energy
+
+48
+
+suppliers reduce their prices, offering lower and more competitive rates, then the economic value of purchasing electricity
+through the VTP will be diminished. Similarly, if regulation increases the feed-in-tariff or similar payments to consumers, then
+the benefit and value of the VTP will be diminished. These changes could result in lower utilisation of the Platform, risking
+shut down of the Platform if long-run system costs cannot be covered.
+Risk of alternative platforms
+It is possible that alternative platforms could be established that utilize the same open source code and protocol underlying
+the Platform and attempt to facilitate services that are materially similar to those intended to be delivered through the
+Platform. The Platform may be in competition with these alternative platforms, which could negatively impact the Platform
+and VLUX tokens.
+It is possible that a competing cryptographic token other than VLUX tokens could have features that make it more desirable
+to the cryptographic token user base, resulting in a reduction in demand for VLUX tokens, which could have a negative
+impact on the use and price of VLUX tokens generally. It is possible that a comparable product could become more popular
+due to either a perceived or exposed shortcoming of the Platform that is not immediately addressed by Verv, or a perceived
+advantage of a comparable product that includes features not incorporated into the Platform. If this product obtains
+significant market share, it could have a negative impact on the demand for, and price of VLUX tokens.
+Risks of mining attacks, hacking, cyber threats and security weaknesses
+As with other decentralized cryptographic tokens based on the Ethereum ERC-20 protocol, VLUX are susceptible to attacks
+by miners in the course of validating VLUX token transactions on the Ethereum blockchain, including, but not limited to,
+double-spend attacks, majority mining power attacks, selfish-mining attacks and race condition attacks. Any successful
+attacks present a risk to the Platform and VLUX Tokens, including, but not limited to, accurate execution, recording of
+transactions involving VLUX tokens and expected proper payment operations.
+Hackers, individuals, other malicious groups or organizations may attempt to interfere with the Platform or VLUX tokens in a
+variety of ways, including, but not limited to, malware attacks, denial of service attacks, consensus-based attacks, Sybil attacks,
+smurfing and spoofing. As the Platform is based on open-source software, there is a risk that any party may intentionally,
+through the actions set out above, or unintentionally introduce weaknesses into the core infrastructure of the Platform,
+which could negatively affect the Platform and the value of VLUX tokens.
+Risk of incompatible wallet service
+The wallet or wallet service provider users select to receive VLUX into must conform to the ERC20 token standard in order to
+be technically compatible with VLUX. The failure to ensure such conformity may have the result that you will not gain access
+to your VLUX.
+Risk of exchanges
+Cryptocurrency exchanges on which VLUX tokens may trade may be relatively new and largely unregulated and therefore
+may be more exposed to fraud and failure than established regulated exchanges. If the cryptocurrency exchanges
+representing a substantial portion of the volume in VLUX token trading are involved in fraud or experience security failures
+or other operational issues, this may result in a reduction in the price and can adversely affect the value of VLUX tokens. A
+lack of stability in the cryptocurrency exchanges and the closure or temporary shutdown of cryptocurrency exchanges due
+to fraud, business failure, hackers or malware, or government-mandated regulation may reduce confidence in the Platform,
+result in greater volatility in the price of VLUX tokens and harm the value of VLUX tokens.
+Risks associated with markets for VLUX
+The Company may choose not to facilitate any secondary speculative trading or any such external valuation of VLUX.
+Furthermore, to the extent that any third party ascribes an external exchange value to VLUX (e.g. as denominated in a crypto
+or fiat currency), such value may be extremely volatile and diminish to zero.
+VLUX tokens are not offered by the Company or its affiliates on an investment basis, and cannot guarantee token value will
+increase with time.
+Risk of uninsured and transaction losses
+Unlike cash reserves held in bank accounts or accounts at some other financial institutions, VLUX tokens are uninsured
+unless you specifically obtain private insurance to insure those held by you. In the event of loss or loss of utility value, there
+is no public insurer or private insurance arranged by Verv to offer recourse to you. VLUX token transactions are irrevocable.
+If VLUX tokens are stolen or incorrectly transferred, such transfer may be irreversible. Cryptographic token transactions
+are not reversible without the consent and active participation of the recipient of the transaction or, in theory, control or
+consent of a majority of the processing power on the host blockchain platform. Once a transaction has been verified and
+
+The Evolution of Energy
+
+49
+
+recorded in a datablock that is added to the blockchain, an incorrect transfer of a VLUX token or a theft of a VLUX token
+generally will not be reversible and there may be no compensation for any such transfer or theft. Such loss cause individual
+token holders to lose their tokens.
+Further, any incorrectly executed VLUX token transactions could adversely affect the value of VLUX tokens if, for example,
+confidence in VLUX diminishes as a result of lost tokens.
+Risk associated with private key(s)
+VLUX tokens may be stored in a wallet or vault. The wallet will hold a private key, or a combination of private keys, required
+to control and dispose of the VLUX tokens stored in your digital wallet or vault. Any loss of requisite private key(s) associated
+with your digital wallet or vault storing VLUX tokens will result in loss of such VLUX tokens. Without an accurate record of the
+private key or password used to access the private key, this may lead to the loss of VLUX tokens.
+Any third party that gains access to a private key may be able to gain access to a user’s VLUX tokens. The loss, destruction,
+loss of access or data loss relating to a private key, may be irreversible and could adversely affect the value of the Platform
+and overall VLUX tokens.
+Risks associated with the Ethereum protocol
+As VLUX and the Platform are based on cryptocurrency protocols, any malfunction, unexpected functioning, forking,
+breakdown or abandonment of the Ethereum protocol may have a material adverse effect on VLUX or the Platform,
+including, but not limited to, impacting your ability to transfer or securely hold VLUX. Such impact could adversely affect the
+value of VLUX.
+The Smart Contract System concept, the underlying software application and software platform (i.e. the Ethereum blockchain)
+is still in an early development stage and unproven. There is no warranty or assurance that the process for creating VLUX will
+be uninterrupted or error-free and therefore there is an inherent risk that the software could contain defects, weaknesses,
+vulnerabilities, viruses or bugs causing, inter alia, the complete loss of contributions and/or VLUX.
+Further, advances in cryptography, or technical advances such as the development of quantum computing, could present
+risks to VLUX and the Platform by rendering ineffective the cryptographic consensus mechanism, that underpins the
+Ethereum protocols.
+Risk of an unfavourable fluctuation of Ether and other currency value
+Verv intends to use the contributions received to fund the development of VLUX, the Verv Platform and various other
+operating expenses. The contributions received will be denominated in ETH, and may be converted into other cryptographic
+and fiat currencies. If the value of ETH or other currencies fluctuates unfavourably during or after the Contribution Period,
+the Company may not be able to fund the development of, or may not be able to maintain, the Verv Platform in the manner
+that it intended.
+Risk of extreme token price volatility
+VLUX tokens are not intended to represent any formal or legally binding investment. Cryptographic tokens that possess
+value in public markets, such as ETH and BTC, have regularly demonstrated extreme fluctuations in price over short periods
+of time. Exchanges are independent of and not operated by Verv, therefore use of exchanges is at your own risk and Verv
+cannot and does not guarantee market liquidity for VLUX tokens and therefore there may be periods of time when VLUX
+tokens are difficult to buy or sell.
+Additionally, due to different regulatory requirements in different jurisdictions and the inability of citizens of certain countries
+to open accounts at exchanges located anywhere in the world, the liquidity of VLUX tokens may be markedly different in
+different countries and this would likely be reflected in significant price discrepancies. Many factors may motivate large-scale
+sales of VLUX tokens, which could result in a reduction in the price and adversely affect the value of VLUX. Cryptographic
+tokens such as VLUX tokens, which are relatively new, are subject to supply and demand forces based upon the desirability
+of an alternative, decentralised means of transacting, and it is unclear how such supply and demand will be impacted by
+geopolitical events. Large-scale sales of VLUX tokens would result in a reduction in the liquidity of such tokens.
+Risks involving cloud storage
+Verv uses a decentralised cloud storage service to host the Platform and related applications. The Platform is therefore
+susceptible to a number of risks related to the storage of data in the cloud. Such data may include large amounts of sensitive
+and / or proprietary information, which may be compromised in the event of a cyber attack or other malicious activity.
+Similarly, the Platform may be interrupted and files may become temporarily unavailable in the event of such an attack or
+malicious activity. As users can use a variety of hardware and software that may interface with the Platform, there is the risk
+that the Platform may become unavailable or interrupted, based on a failure of interoperability or an inability to integrate
+
+The Evolution of Energy
+
+50
+
+these third-party systems and devices that Verv does not control with the Platform. The risk that the Platform may face
+increasing interruptions and additional security vulnerabilities could adversely affect the Platform, and therefore the future
+utility and value of any VLUX tokens. There is also the risk of Verv suffering a data breach and loss of personal data in this
+way, which could result in legal action against it by individuals, customers or regulators.
+Risks arising from taxation
+The tax characterization of VLUX tokens is uncertain in many jurisdictions. Participants must seek your own tax advice in
+connection with purchasing VLUX tokens, which may result in adverse tax consequences to you, including but not limited to
+withholding taxes, transfer taxes, value added taxes, income taxes and similar taxes, levies, duties or other charges and tax
+reporting requirements. Participants bear the sole responsibility for any taxation requirements, in purchasing and holding
+VLUX tokens.
+Risk of hard-fork
+The Verv Platform will need to go through substantial development works as part of which it may become the subject of
+significant conceptual, technical and commercial changes before release. As part of the development, an upgrade to VLUX
+may be required (hard-fork of VLUX) and these upgrades may mean, if you decide not to participate in such upgrade, that
+you may no longer be able to use your VLUX and any non-upgraded VLUX may lose its functionality in full.
+Financial risks
+Even though financial projections for Verv’s business have been compiled with the utmost care and attention, there can be
+no assurance that such projections will be achieved.
+The actual financial outcome is dependent on future assumptions coming to fruition and could be materially different from
+the projections. Other factors such as competition and costs associated with Verv’s operation could have a significant impact
+on its financial results. This may undermine public confidence in the Platform, resulting in fewer users and lower token
+value. Extreme financial difficulties may result in dissolution of the Company and the inability to continue development of
+the Platform.
+Through a strong system of corporate governance and risk management policies and procedures including dynamic
+financial simulations to rapidly changing environments, together with prudent investment policies, the company minimises
+these risks.
+Risks arising from lack of governance rights
+As ownership of a VLUX token confers no governance rights of any kind with respect to the Platform or Verv, all decisions
+involving the Platform or Verv will be made by Verv at its sole discretion, including, but not limited to, decisions to discontinue
+the Platform, to create and sell more VLUX tokens for use in the Platform, or to sell or liquidate Verv. These decisions could
+adversely affect the Platform and any VLUX tokens you hold.
+Verv expects to use the proceeds of the Token Sale to continue its business and the development of the Platform, but this
+may not be the case in the future.
+Risk of intellectual property rights claims
+Intellectual property rights claims may adversely affect the company and operation of the Platform. Third parties may assert
+intellectual property ownership claims relating to Verv’s hardware (VHH), or the holding and transfer of cryptographic tokens
+and their source code. Regardless of the merit of any intellectual property claim or other legal action, any threatened action
+that reduces confidence in the Platform’s long-term viability or the ability of end-users to hold and transfer VLUX tokens, may
+adversely affect the value of VLUX. Additionally, a meritorious intellectual property claim could prevent you from accessing
+the Platform, holding or transferring your VLUX tokens.
+At present, Verv has no reason to believe any such claims are likely to be brought against it.
+Risk of dissolution of the Company or network
+The creation and issue of VLUX and the development of the Verv Platform may be abandoned for a number of reasons,
+including any of the risks described in this section of the whitepaper. Under such circumstances, the Verv Platform may no
+longer be viable to operate, and the Company may dissolve and may not be able to continue the development of the Verv
+Platform. There is no assurance that, even if any such Verv Platform is partially or fully developed and launched, you will
+receive any benefits through VLUX that you hold, and the value of the tokens may reduce to zero.
+
+The Evolution of Energy
+
+51
+
+Key References
+ Environmental Defense Fund. 2014. Why you only get 25% of the electricity you pay for. https://www.edf.org/blog/2014/05/27/why-you-only-get25-electricity-you-pay
+
+1
+
+EIA. n.d. Energy Explained. https://www.eia.gov/energyexplained/index.cfm?page=electricity_environment
+IEA. 2016. Repowering markets. https://www.iea.org/publications/freepublications/publication/REPOWERINGMARKETS.PDF p.3
+Graham, Stephen. 2010. Disrupted Cities. New York: Routledge.
+Union of Concerned Scientists. N.d. All about Coal. https://www.ucsusa.org/clean-energy/coal-impacts#.WpU6c0x2shc
+
+2 
+
+3
+
+Bloomberg New Energy Finance. New Energy Outlook 2017. https://about.bnef.com/new-energy-outlook/#toc-download Point 7
+
+4
+
+The Times. 2017. “Centrica exposes smart energy meters as dumb”. Paragraph 4.
+
+5
+
+The Times. 16/6/2017. “Centrica exposes smart energy meters as dumb”.
+
+ Wired. 2013. Putting a Dollar Value on Big Data Insights. https://www.wired.com/insights/2013/07/putting-a-dollar-value-on-big-data-insights/
+Paragraphs 2-4.
+
+6
+
+7
+
+IEA Energy Technology Perspectives 2017 http://www.iea.org/etp2017/summary/ Paragraphs 1-6
+
+8
+
+UNTC. 2015. treaties.un.org. https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-d&chapter=27&clang=_en.
+MIT Technology Review, 2013. Could Electric Cars Threaten the Grid.  https://www.technologyreview.com/s/518066/could-electric-cars-threatenthe-grid/
+The Enivronmental Literacy Council. N.d. Electric Power Grids & Blackouts. https://enviroliteracy.org/energy/electricity/electric-power-grids-blackouts/ Financial Times, 2017, https://www.ft.com/content/854526c8-30eb-11e7-9555-23ef563ecf9a
+
+9 
+
+S&C Electric Company. 2017. Case for the introduction of a financially incentivized output measure on short interruptions  https://www.ofgem.
+gov.uk/ofgem-publications/126024. In 2004, the Lawrence Berkeley National Laboratory estimated the cost of interruptions at approximately
+$80 billion in 2004 and a recent update to this in 2016 showed the costs have risen to $110 billion.
+
+10 
+
+UK government. 2014. “Smart Grid Vision and Routemap”. US Department of Energy. 2017. “Grid Modernization and the Smart Grid”. European
+Parliament. 2015. “Smart electricity grids and meters in the EU Member States.”
+
+11 
+
+BNEF 2017. Solar Power will kill coal sooner than you think.
+https://about.bnef.com/blog/solar-power-will-kill-coal-sooner-than-you-think/; BNEF 2017.  Faster shift to Clean Dynamic Distributed https://
+about.bnef.com/blog/henbest-energy-2040-faster-shift-clean-dynamic-distributed/
+
+12 
+
+13
+
+Cebr. 2014. Solar powered growth in the UK. https://www.solar-trade.org.uk/wp-content/uploads/2015/03/CEBR-STA-report-Sep-2014-1.pdf
+
+14
+
+IRENA (2018), Renewable Power Generation Costs in 2017, International Renewable Energy Agency, Abu Dhabi.
+Red Electrica de Espana. 2016. Prenewable Energy in the Spanish Electricity System. http://www.ree.es/en/press-office/press-release/2017/07/
+red-electrica-publishes-report-entitled-renewable-energy-spanish-electricity-system-2016
+
+15 
+
+PV Magazine. 2016. UK could be home to 24 million clean energy prosumers by 2050. https://www.pv-magazine.com/2016/09/27/uk-could-behome-to-24-million-clean-energy-prosumers-by-2050-says-report_100026268/
+
+16 
+
+17
+
+Solar Energy Industries Association. (no date). “Net metering.” https://www.seia.org/initiatives/net-metering
+
+18
+
+IEC. 2007. “Efficient Electrical Transmission And Distribution”. Geneva.
+Pinnacle Power. 2018. Local Generation the route to bridging the Capacity Gap by 2020. http://www.pinnaclepower.co.uk/news/local-generationthe-route-to-bridging-the-capacity-gap-by-2020/
+
+19 
+
+Berkeley Law. 2012. Trees and Power Lines https://www.law.berkeley.edu/files/Trees_and_Power_Lines_March_2012.pdf
+Climate Central. 2014. Weather-Related Blackouts Doubled Since 2003: Report. http://www.climatecentral.org/news/weather-related-blackouts-doubled-since-2003-report-1728
+
+20 
+
+The Evolution of Energy
+
+52
+
+21 
+
+IEEE. 2016. Lawrence Berkeley National Laboratory; Evidence on the impact of short interruptions on consumers, Ofgem publication,  https://
+www.ofgem.gov.uk/ofgem-publications/126024  Allianz, Expert Risk Barometer
+Ireland: The Telegraph. Storm Eleanor: Travel chaos and thousands left without power https://www.telegraph.co.uk/news/2018/01/02/storm-eleanor-britain-braced-80mph-winds/
+UK: Evening Standard. 2018. Storm Eleanor: UK battered by 100mph gusts. https://www.standard.co.uk/news/uk/storm-eleanor-uk-battered-by100mph-gusts-as-25000-homes-hit-with-power-cuts-and-winds-bring-travel-a3730601.html
+USA: Reuters. 2017. Factbox: Over 7.4 million lose power from Irma. https://www.reuters.com/article/us-storm-irma-power-outages-factbox/factbox-over-7-3-million-lose-power-from-irma-in-u-s-southeast-utilities-idUSKCN1BM1KD
+Puerto Rico. 2017. Four months after Maria, still desperate in Puerto Rico https://www.newsday.com/opinion/editorial/puerto-rico-after-hurricane-maria-1.16501714
+
+22
+
+National Grid, 2017. “Future Energy Scenarios”; average taken for NG’s four proposed scenario
+
+23
+
+National Grid. 2017. “Future Energy Scenarios.”
+
+24
+
+World Energy Council. 2016. “World Energy Scenarios”. McKinsey & Co. 2016. “Energy 2050: Insights from the ground up.”
+
+25
+
+World Bank. 2018. Population estimates and projections.
+
+26
+
+United Nations. 2017. “Department of Economic and Social Affairs.”
+
+27
+
+World Energy Council. 2013. “World Energy Scenarios: Composing energy futures to 2050”. Average taken for ‘Jazz’ and ‘Symphony’ scenarios
+
+28
+
+Financial Times. 2017. “Electric car costs forecast to hit parity with petrol vehicles”
+International Energy Agency. 2017. “Electric Vehicles Have Another Record Year, Reaching 2 Million Cars In 2016”. Iea.org. https://www.iea.org/
+newsroom/news/2017/june/electric-vehicles-have-another-record-year-reaching-2-million-cars-in-2016.html. International Energy Agency. 2017.
+“Global EV Outlook 2017.”
+
+29 
+
+ arbon Brief. 2016. CCC: UK must act now. https://www.carbonbrief.org/ccc-uk-must-act-now-secure-zero-carbon-heat-2050
+C
+Committee on Climate Change. 2016. Next Steps for UK Heat Policy. https://www.theccc.org.uk/wp-content/uploads/2016/10/Next-steps-for-UKheat-policy-Committee-on-Climate-Change-October-2016.pdf. National Grid. 2017. Future Energy Scenarios.
+
+30 
+
+UK Government. 2016. Heat Networks Investment Project. https://www.gov.uk/government/uploads/system/uploads/attachment_data/
+file/532483/HNIP_consultation_vFINAL.pdf
+
+31 
+
+Sandhu, Mamatha, and Tilak Thakur. 2014. “Issues, Challenges, Causes, Impacts and Utilization Of Renewable Energy Sources - Grid Integration”.
+Int. Journal Of Engineering Research And Applications.
+
+32 
+
+33  
+
+NIC. 2016. Delivering Future-proof energy infrastructure. P.15
+The Guardian. 2017. “Five Reasons Energy Bills are High”.
+UK government. 2014. “Smart Grid Vision and Routemap”. US Department of Energy. 2017. “Grid Modernization and the Smart Grid”. European
+Parliament. 2015. “Smart electricity grids and meters in the EU Member States.”
+
+34 
+
+Mitsui Global Strategic Studies Institute. 2016. Monthly Report March 2016. https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2016/11/17/160307ny_date_e.pdf
+
+35 
+
+The Economist. 2013. The rise of the sharing economy. https://www.economist.com/news/leaders/21573104-internet-everything-hire-rise-sharing-economy
+
+36 
+
+37
+
+Travel Weekly. Airbnb: A case study for our times. www.travelweekly.com/Richard-Turen/Airbnb-case-study-for-our-times
+The Guardian. 2015. The rise of the conscious consumer: why businesses need to open up https://www.theguardian.com/women-in-leadership/2015/apr/02/the-rise-of-the-conscious-consumer-why-businesses-need-to-open-up
+
+38 
+
+39
+
+ oDesign for Public Interest Services. 2017. New Forms of Economies: Sharing Economy, Collaborative Consumption, Peer-to-Peer Economy.
+C
+Section 2.1
+New York Times. 2017. Solar Experiment Lets Neighbours Trade Among Themselves. https://www.nytimes.com/2017/03/13/business/energy-environment/brooklyn-solar-grid-energy-trading.html
+
+40 
+
+41
+
+Ofgem. 2016. “Consumer engagement in the energy market”; YouGov. 2014. “Energy Policy Research Group Survey”.
+Energy Saving Trust. 2018. “Solar Energy Calculator”. Energy Saving Trust. http://www.energysavingtrust.org.uk/scotland/tools-calculators/solar-energy-calculator. National Grid. 2017. “Future Energy Scenarios.”
+
+42 
+
+The Evolution of Energy
+
+53
+
+PV magazine. 2016. UK could be home to 24 million clean energy prosumers by 2050. https://www.pv-magazine.com/2016/09/27/uk-could-behome-to-24-million-clean-energy-prosumers-by-2050-says-report_100026268/
+
+43 
+
+California Center for Sustainable Energy. N.d. A Consumer’s Guide to the California Solar Initiative Statewide Incentives for Solar Energy Systems.
+http://www.energy.ca.gov/2008publications/CPUC-1000-2008-026/CPUC-1000-2008-026.PDF Page 8
+
+44 
+
+Energy Saving Trust. 2018. “Solar Energy Calculator”. Energy Saving Trust. http://www.energysavingtrust.org.uk/scotland/tools-calculators/solar-energy-calculator.
+
+45 
+
+Financial Times. 2017. Households offered first time-of-use energy tariff https://www.ft.com/content/ac3b2788-d0eb-11e6-b06b-680c49b4b4c0
+Renewable Energy World. 2017. Time of Use Means It’s Time for Storage. http://www.renewableenergyworld.com/ugc/articles/2017/01/20/
+timeofuse-means-its-time-for-storage.html
+
+46 
+
+47
+
+Grid+. 2017. Whitepaper. https://gridplus.io/assets/Gridwhitepaper.pdf p.25
+World Economic Forum. 2016. Digital Transformation of Industries – Electricity Industry. https://www.accenture.com/t20170411T120540Z__w__/
+us-en/_acnmedia/Accenture/Conversion-Assets/WEF/PDF/Accenture-Electricity-Industry.pdf P3
+
+48 
+
+49
+
+IEA. 2017. Digitalisation and Energy. https://www.iea.org/publications/freepublications/publication/DigitalizationandEnergy3.pdf
+Steel, William. 2017. “Energy Storage Market Outlook 2017: State Of Play”. Renewableenergyworld.Com. http://www.renewableenergyworld.com/
+articles/print/volume-20/issue-1/features/storage/energy-storage-market-outlook-2017-state-of-play.html.
+
+50 
+
+Martin, Richard. 2016. “We Have Better Battery Technologies, But Not Better Batteries. Here’s Why”. MIT Technology Review. https://www.technologyreview.com/s/602245/why-we-still-dont-have-better-batteries/.
+
+51 
+
+52
+
+Burnett, Michael. 2016. “Energy Storage And The California “Duck Curve”. Stanford University.
+
+53
+
+National Grid. 2017. “Future Energy Scenarios.”
+Sachgau, Oliver. 2017. “One In Six New Cars In The World Will Be Electric By 2025”. Bloomberg Technology, 2017. https://www.bloomberg.com/
+news/articles/2017-11-28/rise-of-electric-cars-quickens-pace-to-tesla-s-benefit.
+
+54 
+
+Electrive. 2017. Honda installs V2G charging in Germany. https://www.electrive.com/2017/12/07/honda-installs-v2g-charging-germany/. Nissan.
+2016. Nissan, Enel and Nuvve operate world’s first fully commercial V2G hub in Denmark. https://newsroom.nissan-europe.com/eu/en-gb/media/
+pressreleases/149186/nissan-enel-and-nuvve-operate-worlds-first-fully-commercial-vehicle-to-grid-hub-in-denmark1
+GreenTech Media. 2017. Nissan Honday Tease New EVs with Grid Services Capabilities. https://www.greentechmedia.com/articles/read/nissanhonda-tease-new-evs-with-grid-service-capabilities#gs.NbtrG7k
+
+55 
+
+UK Government. 2018. £30m investment in revolutionary V2G technologies. https://www.gov.uk/government/news/30-million-investment-in-revolutionary-v2g-technologies
+
+56 
+
+UK Power Networks. 2018. “UKPN to trial EV to grid projects.” https://www.ukpowernetworks.co.uk/internet/en/news-and-press/press-releases/
+UK-Power-Networks-to-trial-Electric-Vehicle-to-Grid-projects.html
+
+57 
+
+58
+
+Zap-map. 2018. Public Charging Networks. https://www.zap-map.com/charge-points/public-charging-point-networks/
+Engerati. 2017. “UK Networks: Making The Switch From DNO To DSO”. https://www.engerati.com/article/uk-networks-switch-dno-dso-westernpower-distribution.
+
+59 
+
+Sustainable Cities and Society. 2015. Towards a regulatory framework for microgrids. https://www.sciencedirect.com/science/article/pii/
+S2210670714001152
+
+60 
+
+Business Wire, 2016. “Microgrid Market To Register 14% Growth Rate Until 2020 Following The Growing Support From Governments To Implement Energy-Efficient Power Solutions: Technavio”. Businesswire.com. https://www.businesswire.com/news/home/20160824005798/en/Microgrid-Market-Register-14-Growth-Rate-2020.
+
+61 
+
+62
+
+IRENA. 2017. Rethinking Energy 2017.  http://www.irena.org/DocumentDownloads/Publications/IRENA_REthinking_Energy_2017.pdf
+
+63
+
+Salam, A, A Mohamed, and M A Hannan. 2008. “Technical Challenges On Microgrids”. ARPN Journal Of Engineering And Applied Sciences.
+Renewable Energy Association. 2016. “Energy Storage In The UK: An Overview.”
+Coyne, Brendan. 2017. “UK Solar PV Capacity Soars 30% Year On Year But Growth Slows As Subsidies Fall | The Energyst”. Theenergyst.com.
+https://theenergyst.com/uk-solar-pv-capacity-soars-30-year-on-year-but-growth-slows-as-subsidies-fall/.
+
+64 
+
+The Evolution of Energy
+
+54
+
+CNBC. 2017. US Solar Installations Nearly Doubled in 2016. https://www.cnbc.com/2017/02/14/us-solar-installations-nearly-doubled-in-2016and-broke-some-records.html The Conversation. 2016. FactCheck Q&A: is Australia the world leader in household solar power?
+https://theconversation.com/factcheck-qanda-is-australia-the-world-leader-in-household-solar-power-56670 (016)
+
+65 
+
+LO3/Exergy. 2017. Whitepaper. http://exergy.energy/wp-content/uploads/2017/11/Exergy-WhitePaper-v5.pdf
+PowerLedger. 2017. Whitepaper. https://powerledger.io/media/Power-Ledger-Whitepaper-v8.pdf
+Grid+. 2017. Whitepaper. https://drive.google.com/file/d/0Bz90riPGRHquNDVXVE81RmppaUk/view
+WePower. 2017. Whitepaper. https://drive.google.com/file/d/0B_OW_EddXO5RWWFVQjJGZXpQT3c/view
+Irene. 2018. Whitepaper. https://www.irene-crowdsale.com/Whitepaper
+
+66 
+
+67
+
+Global Energy News. 2017. Energy Goes Social. https://www.globalenergy-magazine.com/2017-energy-goes-social-2864, http://www.lolo.ac.uk/
+
+The Evolution of Energy
+
+55
+
+
